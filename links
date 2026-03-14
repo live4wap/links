@@ -1,38 +1,23 @@
-[
-  {
-    "name": "xxDesi Dance Hits 2026",
-    "logo": "https://picsum.photos/seed/1/400/250",
-    "genre": "Desi",
-    "url": "https://www.xvv1deos.com/?k=Desi+Dance"
-  },
-  {
-    "name": "Action Movie Trailer",
-    "logo": "https://picsum.photos/seed/2/400/250",
-    "genre": "Action",
-    "url": "https://another-wapsite.com/video/action-1"
-  },
-  {
-    "name": "Funny Comedy Pranks",
-    "logo": "https://picsum.photos/seed/3/400/250",
-    "genre": "Comedy",
-    "url": "https://site-three.com/funny-clips"
-  },
-  {
-    "name": "Street Food Tour",
-    "logo": "https://picsum.photos/seed/4/400/250",
-    "genre": "Vlog",
-    "url": "https://youtube.com/watch?v=food123"
-  },
-  {
-    "name": "Bhojpuri Hot Mix",
-    "logo": "https://picsum.photos/seed/5/400/250",
-    "genre": "Desi",
-    "url": "https://www.xvv1deos.com/?k=Bhojpuri"
-  },
-  {
-    "name": "Horror Short Film",
-    "logo": "https://picsum.photos/seed/6/400/250",
-    "genre": "Horror",
-    "url": "https://vimeo.com/horror-clip"
-  }
-]
+{
+  "base_url": "https://www.xvv1deos.com",
+  "items": [
+    { 
+      "name": "Desi Indian Sarika Playing with Her Big Boobs And Hot Ass On Cam", 
+      "logo": "https://thumb-cdn77.xvideos-cdn.com/c334abeb-336a-4a2d-a883-7699c2791c12/0/xv_7_t.jpg", 
+      "genre": "Desi", 
+      "url": "https://www.xvv1deos.com/video.kulapdo83b5/desi_indian_sarika_playing_with_her_big_boobs_and_hot_ass_on_cam" 
+    },
+    { 
+      "name": "Action Highlights", 
+      "logo": "https://picsum.photos/seed/2/400/250", 
+      "genre": "Action", 
+      "url": "https://another-site.com/watch?v=action-clips" 
+    },
+    { 
+      "name": "Funny Comedy", 
+      "logo": "https://picsum.photos/seed/3/400/250", 
+      "genre": "Comedy", 
+      "url": "https://random-link.org/search/comedy-new" 
+    }
+  ]
+}
