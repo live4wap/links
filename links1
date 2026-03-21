@@ -1,23 +1,25 @@
 {
-  "base_url": "https://www.xvv1deos.com",
+  "base_url": "Math",
   "items": [
-    { 
-      "name": "Desi Indian Sarika Playing with Her Big Boobs And Hot Ass On Cam", 
-      "logo": "https://thumb-cdn77.xvideos-cdn.com/c334abeb-336a-4a2d-a883-7699c2791c12/0/xv_7_t.jpg", 
-      "genre": "Desi", 
-      "url": "https://www.xvv1deos.com/video.kulapdo83b5/desi_indian_sarika_playing_with_her_big_boobs_and_hot_ass_on_cam" 
-    },
-    { 
-      "name": "Action Highlights", 
-      "logo": "https://picsum.photos/seed/2/400/250", 
-      "genre": "Action", 
-      "url": "https://another-site.com/watch?v=action-clips" 
-    },
-    { 
-      "name": "Funny Comedy", 
-      "logo": "https://picsum.photos/seed/3/400/250", 
-      "genre": "Comedy", 
-      "url": "https://random-link.org/search/comedy-new" 
-    }
+    { "name": "Algebra: Solving for X", "url": "https://youtu.be/LwCRRUa8yTU" },
+    { "name": "Trigonometry Cheat Sheet", "url": "https://picsum.photos/seed/math1/800/1200.jpg" },
+    { "name": "Calculus: Limits Explained", "url": "https://youtu.be/RiBn7at9XAs" },
+    { "name": "Geometry: Circle Theorems", "url": "https://picsum.photos/seed/math2/800/600.png" },
+    { "name": "Pythagorean Theorem Animation", "url": "https://youtu.be/AhFzX6f77iY" },
+    { "name": "Prime Numbers Table", "url": "https://picsum.photos/seed/math3/1000/1500.jpg" },
+    { "name": "Statistics: Mean, Median, Mode", "url": "https://youtu.be/kn83BA7cRNM" },
+    { "name": "Fraction to Decimal Chart", "url": "https://picsum.photos/seed/math4/800/1000.webp" },
+    { "name": "Linear Equations Intro", "url": "https://youtu.be/BP3pRZ2sQvY" },
+    { "name": "Multiplication Grid 1-100", "url": "https://picsum.photos/seed/math5/900/900.jpg" },
+    { "name": "Introduction to Derivatives", "url": "https://youtu.be/9vKqVkMQHKk" },
+    { "name": "Unit Circle Diagram", "url": "https://picsum.photos/seed/math6/800/800.png" },
+    { "name": "Probability Basics", "url": "https://youtu.be/KzfWUEJjG18" },
+    { "name": "Logarithm Rules Poster", "url": "https://picsum.photos/seed/math7/700/1000.jpg" },
+    { "name": "Matrix Multiplication Guide", "url": "https://youtu.be/XkY2DOUCWMU" },
+    { "name": "Calculus: Integration Rules", "url": "https://picsum.photos/seed/math8/800/1200.jpg" },
+    { "name": "Quadratic Formula Song", "url": "https://youtu.be/jGArVkuGZt8" },
+    { "name": "Roman Numerals List", "url": "https://picsum.photos/seed/math9/600/900.png" },
+    { "name": "Fast Mental Math Tricks", "url": "https://youtu.be/M4VIdXy58rI" },
+    { "name": "Area and Volume Formulas", "url": "https://picsum.photos/seed/math10/800/1100.jpg" }
   ]
 }
