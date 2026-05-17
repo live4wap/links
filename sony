@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Sony Sab HD",
+        "category": "Entertainment",
+        "logo": "https://i.postimg.cc/LhKxf97t/sonysabhd.webp",
+        "id": "sabhd"
+    },
+    {
+        "name": "SET HD",
+        "category": "Entertainment",
+        "logo": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
+        "id": "sethd"
+    },
+    {
+        "name": "Sony Pal",
+        "category": "Entertainment",
+        "logo": "https://i.postimg.cc/hjYyDb13/sonypal.webp",
+        "id": "pal"
+    },
+    {
+        "name": "Sony Marathii",
+        "category": "Entertainment",
+        "logo": "https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",
+        "id": "marathi"
+    },
+    {
+        "name": "Sony Aath",
+        "category": "Entertainment",
+        "logo": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
+        "id": "aath"
+    },
+    {
+        "name": "Sony Yay",
+        "category": "Kids",
+        "logo": "https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",
+        "id": "yay"
+    },
+    {
+        "name": "Sony BBC Earth HD",
+        "category": "Knowledge",
+        "logo": "https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",
+        "id": "bbcearthhd"
+    },
+    {
+        "name": "Sony Wah",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/HxJG9LSR/sonywah.webp",
+        "id": "wah"
+    },
+    {
+        "name": "Sony Max",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/43JFB33w/sonymax.webp",
+        "id": "max"
+    },
+    {
+        "name": "Sony Max HD",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",
+        "id": "maxhd"
+    },
+    {
+        "name": "Sony Max 2",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/vm32jdgy/sonymax2.webp",
+        "id": "max2"
+    },
+    {
+        "name": "Sony PIX HD",
+        "category": "Movies",
+        "logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
+        "id": "pixhd"
+    },
+    {
+        "name": "Sony TEN 1 SD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",
+        "id": "ten1"
+    },
+    {
+        "name": "Sony TEN 1 HD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",
+        "id": "ten1hd"
+    },
+    {
+        "name": "Sony TEN 2 SD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/027s4b8q/sonysportsten2.webp",
+        "id": "ten2"
+    },
+    {
+        "name": "Sony TEN 2 HD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",
+        "id": "ten2hd"
+    },
+    {
+        "name": "Sony TEN 3 SD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",
+        "id": "ten3"
+    },
+    {
+        "name": "Sony TEN 3 HD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",
+        "id": "ten3hd"
+    },
+    {
+        "name": "Sony TEN 4 SD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+        "id": "ten4"
+    },
+    {
+        "name": "Sony TEN 4 HD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+        "id": "ten4hd"
+    },
+    {
+        "name": "Sony TEN 5 SD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",
+        "id": "ten5"
+    },
+    {
+        "name": "Sony TEN 5 HD",
+        "category": "Sports",
+        "logo": "https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",
+        "id": "ten5hd"
+    }
+]
