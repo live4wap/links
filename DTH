@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Channel Win",
+        "id": "366",
+        "category": "BYNA FREE",
+        "logo": "https://s3.aynaott.com/storage/3458d0d9097a8283a94a13374bcbf5c7",
+        "url": "https://cdn-4.pishow.tv/live/229/master.m3u8"
+    },
+    {
+        "name": "DD Sports",
+        "id": "269",
+        "category": "BYNA FREE",
+        "logo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
+        "url": "https://cdn-6.pishow.tv/live/13/master.m3u8"
+    },
+    {
+        "name": "Goldmines",
+        "id": "8836",
+        "category": "Goldmins TV",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpYtAGVw_2d0puz-IIcdnRFavmhCZvBO7fBvPdkmPRNHHYy4jbnT3XKV5hEGGrW3qHctHdypiTOJ8iIzvPgt3Kv0hKTHkmIZRYJ1yHDOc7gtIaVBgYCBdgocvr0lWyCnxW6as2CK68czO8NOyIvW9OFMfXw2exTQc3ZfPevVbsqwHy2y11gHs_dPt_qJD/s320/GOLDMINES.jpg",
+        "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+    },
+    {
+        "name": "Goldmines",
+        "id": "29208",
+        "category": "BDIX 1",
+        "logo": "https://otapp.store/uploads/tv_image/goldmines.png",
+        "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+    },
+    {
+        "name": "Goldmines Movies",
+        "id": "8838",
+        "category": "Goldmins TV",
+        "logo": "https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",
+        "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
+    },
+    {
+        "name": "Goldmines Movies",
+        "id": "29206",
+        "category": "BDIX 1",
+        "logo": "https://otapp.store/uploads/tv_image/goldmines-movies.png",
+        "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
+    },
+    {
+        "name": "Goldmines Movies 2",
+        "id": "8839",
+        "category": "Goldmins TV",
+        "logo": "https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",
+        "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
+    },
+    {
+        "name": "Khushboo",
+        "id": "339",
+        "category": "BYNA FREE",
+        "logo": "https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44",
+        "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+    },
+    {
+        "name": "Manoranjan TV",
+        "id": "462",
+        "category": "FreeTV",
+        "logo": "https://core.freetvindia.com/media/channels/Manoranjan_TV.png",
+        "url": "https://cdn-1.pishow.tv/live/1013/master.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1"
+    },
+    {
+        "name": "Music India",
+        "id": "335",
+        "category": "BYNA FREE",
+        "logo": "https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3",
+        "url": "https://cdn-2.pishow.tv/live/226/master.m3u8"
+    },
+    {
+        "name": "Music India",
+        "id": "29156",
+        "category": "BDIX 1",
+        "logo": "https://otapp.store/uploads/tv_image/music-india.png",
+        "url": "https://cdn-2.pishow.tv/live/226/master.m3u8"
+    },
+    {
+        "name": "Sangeet Bangla",
+        "id": "277",
+        "category": "BYNA FREE",
+        "logo": "https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+    },
+    {
+        "name": "ShemarooTV",
+        "id": "334",
+        "category": "BYNA FREE",
+        "logo": "https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903",
+        "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
+    },
+    {
+        "name": "Swaraj Express SMBC",
+        "id": "543",
+        "category": "FreeTV",
+        "logo": "https://core.freetvindia.com/media/channels/swaraj_Express_SMBC.png",
+        "url": "https://cdn-2.pishow.tv/live/477/master.m3u8|User-Agent=com.freetvinmob.app/1.7.0 (Linux;Android 13) AndroidXMedia3/1.4.1"
+    }
+]
