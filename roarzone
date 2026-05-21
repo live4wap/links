@@ -1,695 +1,758 @@
 [
     {
-        "name": "T SPORTS",
-        "id": "1045",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/102.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8"
+        "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/ljE2lZ0BNnOkwJLW9lrg/posters/b4bee75a-b8a3-4594-b562-6e3910d71625.png",
+        "name": "BAN vs PAK"
     },
     {
-        "name": "GAZI TV",
-        "id": "1046",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/1.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/gazi/index.m3u8"
+        "logo": "https://i.postimg.cc/SNSpfbQr/Star-Sports-1-HD.png",
+        "name": "Star Sports 1"
     },
     {
-        "name": "STAR SPORTS 1",
-        "id": "1047",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/25.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-1/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/t-sports-hd.png",
+        "name": "T SPORTS HD"
     },
     {
-        "name": "STAR SPORTS 2",
-        "id": "1048",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/26.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-2/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/espn.png",
+        "name": "SONY ESPN"
     },
     {
-        "name": "STAR SPORTS SELECT 1",
-        "id": "1049",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/27.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-select-1/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/sony_sports_1_hd.png",
+        "name": "SONY TEN SPORTS 1 HD"
     },
     {
-        "name": "STAR SPORTS SELECT 2",
-        "id": "1050",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/28.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/star-sports-select-2/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/sony_sports_2_hd.png",
+        "name": "SONY TEN SPORTS 2 HD"
     },
     {
-        "name": "PTV SPOTRS",
-        "id": "1051",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/73.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/ptv-sports/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/sony_sports_5_hd.png",
+        "name": "SONY TEN SPORTS 5 HD"
     },
     {
-        "name": "ASPORTS",
-        "id": "1052",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/add-sports-1.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/a-sports/index.m3u8"
-    },
-    {
-        "name": "SONY TEN 1",
-        "id": "1053",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/20.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-sports-ten-1-hd/index.m3u8"
-    },
-    {
-        "name": "SONY TEN 2",
-        "id": "1054",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/21.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-sports-ten-2-hd/index.m3u8"
-    },
-    {
-        "name": "SONY TEN 3",
-        "id": "1055",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/22.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge4/Sony-Ten-3/index.m3u8"
-    },
-    {
-        "name": "SONY SIX",
-        "id": "1056",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/24.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-sports-ten-5-hd/index.m3u8"
-    },
-    {
-        "name": "EURO SPORTS",
-        "id": "1057",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/euro_sports_hd.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/euro-sport-hd/index.m3u8"
-    },
-    {
-        "name": "TEN CRICKET",
-        "id": "1058",
-        "category": "ROAR ISP",
         "logo": "https://tvassets.roarzone.net/images/ten_cricket.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-ten-cricket/index.m3u8"
+        "name": "SONY TEN CRICKET"
     },
     {
-        "name": "WILLOW",
-        "id": "1059",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/70.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge4/WILLOW-TV/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/cricket-gold.png",
+        "name": "CRICKET GOLD"
     },
     {
-        "name": "STAR GOLD",
-        "id": "1060",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/75.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/star-gold/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/willow-tv.png",
+        "name": "WILLOW TV"
     },
     {
-        "name": "SONY TV",
-        "id": "1061",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/38.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-entertainment-television-hd/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/xtrem-sports.png",
+        "name": "XTREM SPORTS"
     },
     {
-        "name": "SONY MAX",
-        "id": "1062",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/sonymax.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-max/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/sports-first-tv.png",
+        "name": "SPORTS FIRST TV"
     },
     {
-        "name": "SONY MAX HD",
-        "id": "1063",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/sonymaxhd.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-max-hd/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/talk-sport.png",
+        "name": "TALK SPORT"
     },
     {
-        "name": "COLORS",
-        "id": "1064",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/68.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/colors/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/fox-sports-2.png",
+        "name": "FOX SPORTS 2"
     },
     {
-        "name": "SONY MAX 2",
-        "id": "1065",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/sonymax2.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-max-2/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/a-sports.png",
+        "name": "A SPORTS"
     },
     {
-        "name": "ZEE TV",
-        "id": "1066",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/40.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zee-tv-hd/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/sports-grid.png",
+        "name": "SPORTS GRID"
     },
     {
-        "name": "ZEE CINEMA",
-        "id": "1067",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/76.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zee-cinema-hd/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/more-then-sports-tv.png",
+        "name": "MORE THEN SPORTS TV"
     },
     {
-        "name": "ZEE BOLLYWOOD",
-        "id": "1068",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/94.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zee-bollywood/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/bahrain-sports-1.png",
+        "name": "BAHRAIN SPORTS 1"
     },
     {
-        "name": "ZEE ACTION",
-        "id": "1069",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/90.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zee-action/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/ptv-sports.png",
+        "name": "PTV SPORTS"
     },
     {
-        "name": "STAR PLUS",
-        "id": "1070",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/67.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/67/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/dd-sports.png",
+        "name": "DD SPORTS"
     },
     {
-        "name": "AND TV HD",
-        "id": "1071",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/74.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/tv-hd/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/nbc-sports.png",
+        "name": "NBC SPORTS"
     },
     {
-        "name": "AND PICTURES",
-        "id": "1072",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/100.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/pictures-hd/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/oman-sports-tv.png",
+        "name": "OMAN SPORTS TV"
     },
     {
-        "name": "HUM TV",
-        "id": "1073",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/humtv.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/hum/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/sports-fishing-tv.png",
+        "name": "SPORTS FISHING TV"
     },
     {
-        "name": "ZEE-ANMOL",
-        "id": "1074",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/zee-anmol.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zee-anmol/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/speed-sports-1.png",
+        "name": "SPEED SPORTS 1"
     },
     {
-        "name": "HUM MASALA",
-        "id": "1075",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/hummasala.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/hum-masala/index.m3u8"
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bIqh7m8AlSK-6ZrLOT2p1DFCZcJOZ9w-MxIRUnIQoehma1PkrDQ9B48&s=10",
+        "name": "Star Jalsha"
     },
     {
-        "name": "HUM SITAREY",
-        "id": "1076",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/humsitarey.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/hum-sitaray/index.m3u8"
+        "logo": "https://www.dodawards.in/wp-content/uploads/2024/03/001.png",
+        "name": "ZEE Bangla"
     },
     {
-        "name": "B4U MOVIES",
-        "id": "1077",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/b4umovies.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/b4u-movies-apac/index.m3u8"
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ9l3CospNm55oEn0V7oc67JGpBwq5_qKfK5Xtnhfpm0WQXls0kfvpNyc&s=10",
+        "name": "Enterr10"
     },
     {
-        "name": "SONY SAB",
-        "id": "1078",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/36.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-sab-hd/index.m3u8"
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJh-9D8ZXy5M4MAouOuPBYXZXOUlCmZ8DrwXTxLUBRp1oP3Lu2-_OGTLk&s=10",
+        "name": "Bangla Plus"
     },
     {
-        "name": "DISCOVERY HD",
-        "id": "1079",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/43.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/discovery-hd/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/gazi-tv.png",
+        "name": "GAZI TV"
     },
     {
-        "name": "DISCOVERY SCIENCE",
-        "id": "1080",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/discoveryscience.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/discovery-science/index.m3u8"
-    },
-    {
-        "name": "DISCOVERY TURBO",
-        "id": "1081",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/discoveryturbo.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/discovery-turbo/index.m3u8"
-    },
-    {
-        "name": "DISCOVERY HD INVESTIGATION",
-        "id": "1082",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/discoveryhdInvestigation.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8"
-    },
-    {
-        "name": "CNN",
-        "id": "1083",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/cnn.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/cnn/index.m3u8"
-    },
-    {
-        "name": "SONY BBC EARTH HD",
-        "id": "1084",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/44.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-bbc-earth-hd/index.m3u8"
-    },
-    {
-        "name": "NATGEO",
-        "id": "1085",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/35.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/35/index.m3u8"
-    },
-    {
-        "name": "ANIMAL PLANET",
-        "id": "1086",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/animalplanet.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/animal-planet-hd/index.m3u8"
-    },
-    {
-        "name": "STAR JALSHA",
-        "id": "1087",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/30.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/star-jalsha/index.m3u8"
-    },
-    {
-        "name": "STAR JALSHA MOVIES",
-        "id": "1088",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/31.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/jalsha-movies/index.m3u8"
-    },
-    {
-        "name": "ZEE BANGLA",
-        "id": "1089",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/34.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zee-bangla/index.m3u8"
-    },
-    {
-        "name": "ZEE BANGLA CINEMA",
-        "id": "1090",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/29.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zee-bangla-cinema/index.m3u8"
-    },
-    {
-        "name": "COLORS BANGLA",
-        "id": "1091",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/66.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/colors-bangla/index.m3u8"
-    },
-    {
-        "name": "SONY AATH",
-        "id": "1092",
-        "category": "ROAR ISP",
         "logo": "https://tvassets.roarzone.net/images/33.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-aath/index.m3u8"
+        "name": "SONY AATH"
     },
     {
-        "name": "CARTOON NETWORK HD",
-        "id": "1093",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/cartoon-network-hd.webp",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/cartoon-network-hd/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/dw-news.png",
+        "name": "DW NEWS"
     },
     {
-        "name": "CARTOON NETWORK",
-        "id": "1094",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/cartoon-network.webp",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/cartoon-network/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/mtv.png",
+        "name": "MTV"
     },
     {
-        "name": "NICK",
-        "id": "1095",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/55.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge5/nickelodeon/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/jamuna-tv.png",
+        "name": "JAMUNA TV"
     },
     {
-        "name": "POGO",
-        "id": "1096",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/pogo.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/pogo/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/channel-24.png",
+        "name": "CHANNEL 24"
     },
     {
-        "name": "DISCOVERY KIDS",
-        "id": "1097",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/discoverykids.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/discovery-kids/index.m3u8"
-    },
-    {
-        "name": "SONY YAY",
-        "id": "1098",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/sonyyay.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-yay/index.m3u8"
-    },
-    {
-        "name": "STAR MOVIES",
-        "id": "1099",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/starmovies.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/starmovies/index.m3u8"
-    },
-    {
-        "name": "ZEE CAFE HD",
-        "id": "1100",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/69.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zee-cafe/index.m3u8"
-    },
-    {
-        "name": "SONY PIX",
-        "id": "1101",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/41.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/sony-pix-hd/index.m3u8"
-    },
-    {
-        "name": "DW NEWS",
-        "id": "1102",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/85.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/85/index.m3u8"
-    },
-    {
-        "name": "AL JAZEERA",
-        "id": "1103",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/89.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/89/index.m3u8"
-    },
-    {
-        "name": "TLC HD",
-        "id": "1104",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/tlc-hd.webp",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/tlc-hd/index.m3u8"
-    },
-    {
-        "name": "GAAN BANGLA",
-        "id": "1105",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/58.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/58/index.m3u8"
-    },
-    {
-        "name": "9XM",
-        "id": "1106",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/48.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/48/index.m3u8"
-    },
-    {
-        "name": "ZING",
-        "id": "1107",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/93.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/zing/index.m3u8"
-    },
-    {
-        "name": "B4U MUSIC",
-        "id": "1108",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/b4umusic.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/b4u-music/index.m3u8"
-    },
-    {
-        "name": "JAMUNA TV",
-        "id": "1109",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/13.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/jamuna-tv/index.m3u8"
-    },
-    {
-        "name": "NAGORIK TV",
-        "id": "1110",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/59.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/nagorik/index.m3u8"
-    },
-    {
-        "name": "CHANNEL 24",
-        "id": "1111",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/5.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/channel24/index.m3u8"
-    },
-    {
-        "name": "CHANNEL S",
-        "id": "1112",
-        "category": "ROAR ISP",
         "logo": "https://tvassets.roarzone.net/images/channel-s.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/channel-s/index.m3u8"
+        "name": "CHANNEL S"
     },
     {
-        "name": "SOMOY TV",
-        "id": "1113",
-        "category": "ROAR ISP",
         "logo": "https://tvassets.roarzone.net/images/17.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/somoy-tv/index.m3u8"
+        "name": "SOMOY TV"
     },
     {
-        "name": "EKUSHY TV",
-        "id": "1114",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/65.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/65/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/asian-tv.png",
+        "name": "ASIAN TV"
     },
     {
-        "name": "ASIAN TV",
-        "id": "1115",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/62.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/asian-tv/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/atn-bangla.png",
+        "name": "ATN BANGLA"
     },
     {
-        "name": "ATN BANGLA",
-        "id": "1116",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/2.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/2/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/atn-news.png",
+        "name": "ATN NEWS"
     },
     {
-        "name": "ATN NEWS",
-        "id": "1117",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/49.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/atn-news/index.m3u8"
-    },
-    {
-        "name": "BANGLAVISION TV",
-        "id": "1118",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/3.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/banglavision/index.m3u8"
-    },
-    {
-        "name": "GLOBAL TV",
-        "id": "1119",
-        "category": "ROAR ISP",
         "logo": "https://tvassets.roarzone.net/images/global-tv.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/global-tv/index.m3u8"
+        "name": "GLOBAL TV"
     },
     {
-        "name": "ANANDA TV",
-        "id": "1120",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/16.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/ananda-tv/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/ananda-tv.png",
+        "name": "ANANDA TV"
     },
     {
-        "name": "BANGLA TV",
-        "id": "1121",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/19.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/bangla-tv/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/bangla-tv.png",
+        "name": "BANGLA TV"
     },
     {
-        "name": "BOISHAKHI TV",
-        "id": "1122",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/61.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/61/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/boishakhi-tv.png",
+        "name": "BOISHAKHI TV"
     },
     {
-        "name": "BTV",
-        "id": "1123",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/53.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/53/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/channel-9.png",
+        "name": "CHANNEL 9"
     },
     {
-        "name": "BTV WORLD",
-        "id": "1124",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/84.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/84/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/channel-i.png",
+        "name": "CHANNEL I"
     },
     {
-        "name": "CHANNEL 9",
-        "id": "1125",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/4.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/4/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/dbc-news.png",
+        "name": "DBC NEWS"
     },
     {
-        "name": "CHANNEL I",
-        "id": "1126",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/6.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/channel-i/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/ekattor-tv.png",
+        "name": "EKATTOR TV"
     },
     {
-        "name": "DBC NEWS",
-        "id": "1127",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/7.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/dbc/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/deepto-tv.png",
+        "name": "DEEPTO TV"
     },
     {
-        "name": "EKATTOR TV",
-        "id": "1128",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/11.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/ekattor-tv/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/desh-tv.png",
+        "name": "DESH TV"
     },
     {
-        "name": "DEEPTO TV",
-        "id": "1129",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/8.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/deepto_tv/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/duronto-tv.png",
+        "name": "DURONTO TV"
     },
     {
-        "name": "DESH TV",
-        "id": "1130",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/9.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/9/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/independent-tv.png",
+        "name": "INDEPENDENT TV"
     },
     {
-        "name": "DURONTO TV",
-        "id": "1131",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/10.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/10/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/mohona-tv.png",
+        "name": "MOHONA TV"
     },
     {
-        "name": "INDEPENDENT TV",
-        "id": "1132",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/12.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/independent-tv/index.m3u8"
-    },
-    {
-        "name": "MAASRANGA",
-        "id": "1133",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/51.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge2/mashraga/index.m3u8"
-    },
-    {
-        "name": "MOHONA TV",
-        "id": "1134",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/50.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/50/index.m3u8"
-    },
-    {
-        "name": "MOVIE BANGLA TV",
-        "id": "1135",
-        "category": "ROAR ISP",
         "logo": "https://tvassets.roarzone.net/images/86.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/movie-bangla/index.m3u8"
+        "name": "MOVIE BANGLA TV"
     },
     {
-        "name": "MY TV",
-        "id": "1136",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/56.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/56/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/my-tv.png",
+        "name": "MY TV"
     },
     {
-        "name": "NEWS24",
-        "id": "1137",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/18.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/18/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/ntv.png",
+        "name": "NTV"
     },
     {
-        "name": "NTV",
-        "id": "1138",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/54.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/ntv/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/rtv.png",
+        "name": "RTV"
     },
     {
-        "name": "RTV",
-        "id": "1139",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/14.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/14/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/sa-tv.png",
+        "name": "SA TV"
     },
     {
-        "name": "SA TV",
-        "id": "1140",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/15.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/15/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/islamic_tv.png",
+        "name": "ISLAMIC TV"
     },
     {
-        "name": "SANGSAD TV",
-        "id": "1141",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/88.png",
-        "url": "https://edge2.roarzone.net:8447/roarzone/bk/88/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/rajdhani_tv.png",
+        "name": "RAJDHANI TV"
     },
     {
-        "name": "EKHON",
-        "id": "1142",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/ekhon-tv.jpg",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/ekhon-tv/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/ekhon-tv.png",
+        "name": "EKHON TV"
     },
     {
-        "name": "BIJOY-TV",
-        "id": "1143",
-        "category": "ROAR ISP",
-        "logo": "https://tvassets.roarzone.net/images/bijoy-tv.jpg",
-        "url": "https://edge2.roarzone.net:8447/roarzone/edge3/bijoy-tv/index.m3u8"
+        "logo": "https://tvassets.roarzone.net/images/comedy-central.png",
+        "name": "COMEDY CENTRAL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/cooking-tv.png",
+        "name": "COOKING TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/maasranga-tv.png",
+        "name": "MAASRANGA TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/sangeet-bangla.png",
+        "name": "SANGEET BANGLA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/weather-channel.png",
+        "name": "WEATHER CHANNEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/nfl-network.png",
+        "name": "NFL NETWORK"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/bijoy-tv.png",
+        "name": "BIJOY TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/kolkata-tv.png",
+        "name": "KOLKATA TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/golf-channel.png",
+        "name": "GOLF CHANNEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/fx-tv.png",
+        "name": "FX TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/btv-ctg.png",
+        "name": "BTV CTG"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/kids-pang-tv.png",
+        "name": "KIDS PANG TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/syfy-tv.png",
+        "name": "SYFY TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/hgtv.png",
+        "name": "HGTV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/food-network.png",
+        "name": "FOOD NETWORK"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/bravo.png",
+        "name": "BRAVO"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/tv9-bangla.png",
+        "name": "TV9 BANGLA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/eman-channel.png",
+        "name": "EMAN CHANNEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/deen-tv.png",
+        "name": "DEEN TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/9x-jalwa.png",
+        "name": "9X JALWA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/trt-world.png",
+        "name": "TRT WORLD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/sadhna-prime-news.png",
+        "name": "SADHNA PRIME NEWS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/news-1-india.png",
+        "name": "NEWS 1 INDIA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/republic-bangla.png",
+        "name": "REPUBLIC BANGLA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/fox-5.png",
+        "name": "FOX 5"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/republic-tv-bharat.png",
+        "name": "REPUBLIC TV BHARAT"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/tsn-1.png",
+        "name": "TSN 1"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/pix-11.png",
+        "name": "PIX 11"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/usa-tv.png",
+        "name": "USA TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/fox-business.png",
+        "name": "FOX BUSINESS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/news-nation.png",
+        "name": "NEWS NATION"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/cp-24.png",
+        "name": "CP 24"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/nexus-tv.png",
+        "name": "NEXUS TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/news-24-bd.png",
+        "name": "NEWS 24 BD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/goal-tv.png",
+        "name": "GOAL TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/dhinchaak.png",
+        "name": "DHINCHAAK"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/channel-win.png",
+        "name": "CHANNEL WIN"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/msnbc-news.png",
+        "name": "MSNBC NEWS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/axs.png",
+        "name": "AXS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/laff-tv.png",
+        "name": "LAFF TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/ibtv-usa.png",
+        "name": "IBTV USA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/network-10.png",
+        "name": "NETWORK 10"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/life-time.png",
+        "name": "LIFE TIME"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/cbs-tv.png",
+        "name": "CBS TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/power-turk.png",
+        "name": "POWER TURK"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/nat-geo-tv.png",
+        "name": "NAT GEO TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/cnbc-tv.png",
+        "name": "CNBC TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/cgtn-docu.png",
+        "name": "CGTN DOCU"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/bloomberg-tv.png",
+        "name": "BLOOMBERG TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/assam-talks.png",
+        "name": "ASSAM TALKS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/etv.png",
+        "name": "ETV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/somoy-news-tv.png",
+        "name": "SOMOY NEWS TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/tsn-3.png",
+        "name": "TSN 3"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/goldmines-bollywood.png",
+        "name": "GOLDMINES BOLLYWOOD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/bangla-vision.png",
+        "name": "BANGLA VISION"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/abc-news.png",
+        "name": "ABC NEWS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/taaza-tv.png",
+        "name": "TAAZA TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/madani-tv.png",
+        "name": "MADANI TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/ytv.png",
+        "name": "YTV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/anb-news.png",
+        "name": "ANB NEWS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/shemaroo-tv.png",
+        "name": "SHEMAROO TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/rds-social-tv.png",
+        "name": "RDS SOCIAL TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/nhk-world.png",
+        "name": "NHK WORLD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/bek-tv-news.png",
+        "name": "BEK TV NEWS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/tsn-2.png",
+        "name": "TSN 2"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/tbs.png",
+        "name": "TBS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/dangal.png",
+        "name": "DANGAL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/epix-tv.png",
+        "name": "EPIX TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/9x-tashan.png",
+        "name": "9X TASHAN"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/hindi-khabar.png",
+        "name": "HINDI KHABAR"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/sky-news.png",
+        "name": "SKY NEWS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/manoranjan-tv.png",
+        "name": "MANORANJAN TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/dd-bangla.png",
+        "name": "DD BANGLA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/wof-1.png",
+        "name": "WOF 1"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/tvcarib-kids-teens.png",
+        "name": "TVCARIB KIDS & TEENS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/accuweather.png",
+        "name": "ACCUWEATHER"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/fox-weather.png",
+        "name": "FOX WEATHER"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/sky-news-weather.png",
+        "name": "SKY NEWS WEATHER"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/discover-pikstan.png",
+        "name": "DISCOVER PIKSTAN"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/wild-tv.png",
+        "name": "WILD TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/world-war-tv.png",
+        "name": "WORLD WAR TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/india-today.png",
+        "name": "INDIA TODAY"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/geo-ent.png",
+        "name": "GEO ENT"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/drama-24.png",
+        "name": "DRAMA 24"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/oan.png",
+        "name": "OAN"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/persiana-korea.png",
+        "name": "PERSIANA KOREA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/adventure-earth.png",
+        "name": "ADVENTURE EARTH"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/court-tv.png",
+        "name": "COURT TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/saudia-radio.png",
+        "name": "SAUDIA RADIO"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/awaaz-india.png",
+        "name": "AWAAZ INDIA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/iran-press.png",
+        "name": "IRAN PRESS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/rongeen-tv.png",
+        "name": "RONGEEN TV"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/thikana.png",
+        "name": "THIKANA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/sony-atth.png",
+        "name": "SONY ATTH"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/r-plus.png",
+        "name": "STAR PLUS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/zee-24-ghanta.png",
+        "name": "ZEE 24 GHANTA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/aljazeera.png",
+        "name": "ALJAZEERA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/star-news.png",
+        "name": "STAR NEWS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/music-india.png",
+        "name": "MUSIC INDIA"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/sonymax2.png",
+        "name": "SONY MAX 2"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/toffee_movie.png",
+        "name": "TOFFEE MOVIES"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/cnn.png",
+        "name": "CNN"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/44.png",
+        "name": "SONY BBC EARTH HD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/animal-planet-hd.png",
+        "name": "ANIMAL PLANET HD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/cartoon-network.png",
+        "name": "CARTOON NETWORK HD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/55.png",
+        "name": "NICK"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/sonyyay.png",
+        "name": "SONY YAY"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/tlc-hd.png",
+        "name": "TLC HD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/3abn-kids.png",
+        "name": "3ABN KIDS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/dios-te-ve-kids.png",
+        "name": "DIOS TE VE KIDS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/khushboo.png",
+        "name": "KHUSHBOO"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/discovery-family.png",
+        "name": "DISCOVERY FAMILY"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/travel-channel.png",
+        "name": "TRAVEL CHANNEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/disney-xd.png",
+        "name": "DISNEY XD"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/hbo-2.png",
+        "name": "HBO 2"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/disney-jr.png",
+        "name": "DISNEY JR"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/nicktoons.png",
+        "name": "NICKTOONS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/nickjr.png",
+        "name": "NICKJR"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/teen-nick.png",
+        "name": "TEEN NICK"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/disney-channel.png",
+        "name": "DISNEY CHANNEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/moonbug-kids.png",
+        "name": "MOONBUG KIDS"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/4k-travel.png",
+        "name": "4K TRAVEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/intravel.png",
+        "name": "INTRAVEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/persiana-travel.png",
+        "name": "PERSIANA TRAVEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/travel-xp.png",
+        "name": "TRAVEL XP"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/movie-sphere.png",
+        "name": "MOVIE SPHERE"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/cowboy-movie-channel.png",
+        "name": "COWBOY MOVIE CHANNEL"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/hindi-movie-classic-24.png",
+        "name": "HINDI MOVIE CLASSIC 24"
+    },
+    {
+        "logo": "https://tvassets.roarzone.net/images/pbs-kids.png",
+        "name": "PBS KIDS"
     }
 ]
