@@ -346,15 +346,380 @@
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd"
     },
-
-
-{
-        "keyId": "f0fb14eebe474a6ab74c8301d55a7224",
-        "key": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
-        "name": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
-        "id": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
-        "logo": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8",
+    {
+        "name": "Zee Comedy Nation (1080p)",
+        "id": "140",
+        "category": "Comedy",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
         "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8"
     },
-    
+    {
+        "name": "Al Jazeera Documentary (1080p) [Geo-blocked]",
+        "id": "178",
+        "category": "Documentary",
+        "logo": "https://i.imgur.com/5dNJlLo.png",
+        "url": "https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8"
+    },
+    {
+        "name": "Anmol Cinema (576p)",
+        "id": "321",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a01v/index.m3u8"
+    },
+    {
+        "name": "Anmol Cinema 2 (576p)",
+        "id": "322",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
+    },
+    {
+        "name": "Zee Action (576p)",
+        "id": "642",
+        "category": "Movies",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/512px-Zee_Action_2025.svg.png",
+        "url": "http://163.61.227.29:8000/play/a044/index.m3u8"
+    },
+    {
+        "name": "Zee Bollymovies (1080p) [Geo-blocked]",
+        "id": "643",
+        "category": "Movies",
+        "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
+        "url": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Zee Bollymovies Australia (1080p) [Geo-blocked]",
+        "id": "644",
+        "category": "Movies",
+        "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
+        "url": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Zee Bollywood (576p)",
+        "id": "645",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a00n/index.m3u8"
+    },
+    {
+        "name": "Zee Cinema (1080p)",
+        "id": "646",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a06w/index.m3u8"
+    },
+    {
+        "name": "Zee Cinema APAC (1080p) [Geo-blocked]",
+        "id": "647",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Zee South Flix (1080p)",
+        "id": "648",
+        "category": "Movies",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
+        "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8"
+    },
+    {
+        "name": "Al Jazeera (1080p)",
+        "id": "1408",
+        "category": "News",
+        "logo": "https://i.imgur.com/7bRVpnu.png",
+        "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8"
+    },
+    {
+        "name": "Al Jazeera English (1080p)",
+        "id": "1409",
+        "category": "News",
+        "logo": "https://i.imgur.com/7bRVpnu.png",
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"
+    },
+    {
+        "name": "Al Jazeera Mubasher (1080p)",
+        "id": "1410",
+        "category": "News",
+        "logo": "https://i.imgur.com/X80DQvF.png",
+        "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8"
+    },
+    {
+        "name": "Al Jazeera Mubasher 24 (1080p)",
+        "id": "1411",
+        "category": "News",
+        "logo": "https://i.imgur.com/LMCcIZ2.png",
+        "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8"
+    },
+    {
+        "name": "Al Jazeera Mubasher Broadcast 2 (1080p)",
+        "id": "1412",
+        "category": "News",
+        "logo": "https://i.imgur.com/nJmi6G6.png",
+        "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8"
+    },
+    {
+        "name": "Zee 24 Ghanta (576p)",
+        "id": "2174",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_GHANTA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://103.140.254.2:3500/live/464.m3u8"
+    },
+    {
+        "name": "Zee 24 Taas (720p)",
+        "id": "2175",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_TAAS/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8"
+    },
+    {
+        "name": "Zee Bharat (720p)",
+        "id": "2176",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8"
+    },
+    {
+        "name": "Zee Bihar Jharkhand (720p)",
+        "id": "2177",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BIHAR_JHARKHAND/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8"
+    },
+    {
+        "name": "Zee Delhi NCR Haryana (720p)",
+        "id": "2178",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_DELHI_NCR_HARYANA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8"
+    },
+    {
+        "name": "Zee Kannada News (720p)",
+        "id": "2179",
+        "category": "News",
+        "logo": "https://english.cdn.zeenews.com/images/logo/zee-kannada-logo-20.svg",
+        "url": "https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8"
+    },
+    {
+        "name": "Zee Madhya Pradesh Chhattisgarh (720p)",
+        "id": "2180",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8"
+    },
+    {
+        "name": "Zee News (1080p)",
+        "id": "2181",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8"
+    },
+    {
+        "name": "Zee News Malayalam (720p)",
+        "id": "2182",
+        "category": "News",
+        "logo": "https://i.imgur.com/MePj7ET.png",
+        "url": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8"
+    },
+    {
+        "name": "Zee Punjab Haryana Himachal (720p)",
+        "id": "2183",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8"
+    },
+    {
+        "name": "Zee Rajasthan (720p)",
+        "id": "2184",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8"
+    },
+    {
+        "name": "Zee Telugu News (720p)",
+        "id": "2185",
+        "category": "News",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png",
+        "url": "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8"
+    },
+    {
+        "name": "Zee Uttar Pradesh/Uttarakhand (720p)",
+        "id": "2186",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
+    },
+    {
+        "name": "Anmol Cinema (576p)",
+        "id": "2366",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a01v/index.m3u8"
+    },
+    {
+        "name": "Anmol Cinema 2 (576p)",
+        "id": "2367",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://110.39.27.47:8001/play/a03w/index.m3u8"
+    },
+    {
+        "name": "Tehzeeb TV (720p)",
+        "id": "2550",
+        "category": "Undefined",
+        "logo": "https://i.imgur.com/PCVOdup.png",
+        "url": "https://cdn-4.pishow.tv/live/239/master.m3u8"
+    },
+    {
+        "name": "Zee Action (576p)",
+        "id": "2563",
+        "category": "Movies",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/512px-Zee_Action_2025.svg.png",
+        "url": "http://163.61.227.29:8000/play/a044/index.m3u8"
+    },
+    {
+        "name": "Zee Bharat (720p)",
+        "id": "2564",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8"
+    },
+    {
+        "name": "Zee Bollywood (576p)",
+        "id": "2565",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a00n/index.m3u8"
+    },
+    {
+        "name": "Zee Business (720p)",
+        "id": "2566",
+        "category": "Business",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BUSINESS/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8"
+    },
+    {
+        "name": "Zee Cafe (1080p)",
+        "id": "2567",
+        "category": "Series",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a076/index.m3u8"
+    },
+    {
+        "name": "Zee Cine Classic (1080p)",
+        "id": "2568",
+        "category": "Classic",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
+        "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8"
+    },
+    {
+        "name": "Zee Cinema (1080p)",
+        "id": "2569",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a06w/index.m3u8"
+    },
+    {
+        "name": "Zee Cinema APAC (1080p) [Geo-blocked]",
+        "id": "2570",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "Zee Classic (576p)",
+        "id": "2571",
+        "category": "Classic",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a006/index.m3u8"
+    },
+    {
+        "name": "Zee Comedy Nation (1080p)",
+        "id": "2572",
+        "category": "Comedy",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png",
+        "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8"
+    },
+    {
+        "name": "Zee Delhi NCR Haryana (720p)",
+        "id": "2573",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_DELHI_NCR_HARYANA/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8"
+    },
+    {
+        "name": "Zee Dil Se (1080p)",
+        "id": "2574",
+        "category": "Entertainment",
+        "logo": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
+        "url": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8"
+    },
+    {
+        "name": "Zee Horror Nights (1080p)",
+        "id": "2575",
+        "category": "Entertainment",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png",
+        "url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8"
+    },
+    {
+        "name": "Zee Madhya Pradesh Chhattisgarh (720p)",
+        "id": "2576",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8"
+    },
+    {
+        "name": "Zee News (1080p)",
+        "id": "2577",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8"
+    },
+    {
+        "name": "Zee Rajasthan (720p)",
+        "id": "2578",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8"
+    },
+    {
+        "name": "Zee South Flix (1080p)",
+        "id": "2579",
+        "category": "Movies",
+        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
+        "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8"
+    },
+    {
+        "name": "Zee TV (1080p)",
+        "id": "2580",
+        "category": "Entertainment",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://66.102.120.18:8000/play/a00y/index.m3u8"
+    },
+    {
+        "name": "Zee TV Canada (480p)",
+        "id": "2581",
+        "category": "Undefined",
+        "logo": "https://i.imgur.com/mARKUZ9.png",
+        "url": "https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8"
+    },
+    {
+        "name": "Zee Uttar Pradesh/Uttarakhand (720p)",
+        "id": "2582",
+        "category": "News",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
+    },
+    {
+        "name": "Zee Telugu News (720p)",
+        "id": "2651",
+        "category": "News",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png",
+        "url": "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8"
+    }
 ]
+
+
+
+    
+
