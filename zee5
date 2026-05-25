@@ -204,15 +204,7 @@
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd"
     },
-    {
-        "keyId": "bef87892e58c446d893b16a848703b70",
-        "key": "51959fcbc8fe4091b570ba254bf749ae",
-        "name": "Zee Business",
-        "id": "26",
-        "category": "News",
-        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd"
-    },
+    
     {
         "keyId": "bef87892e58c446d893b16a848703b70",
         "key": "51959fcbc8fe4091b570ba254bf749ae",
@@ -353,5 +345,16 @@
         "id": "Zoom",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png",
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd"
-    }
+    },
+
+
+{
+        "keyId": "f0fb14eebe474a6ab74c8301d55a7224",
+        "key": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+        "name": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
+        "id": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
+        "logo": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8",
+        "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8"
+    },
+    
 ]
