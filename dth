@@ -1,6 +1,6 @@
 [
     {
-        "name": "&amp;TV Movie Special",
+        "name": "Movie Special",
         "id": "278",
         "category": "HINDI 4K",
         "logo": "https://i.ibb.co/DfcNj1dK/images-3.jpg",
@@ -1483,16 +1483,7 @@
         "logo": "https://prodcdn1.wavespb.com/shows/thumbnail/659096870E_24.webp",
         "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/master_1.m3u8?aws.sessionId=cd8e2dcd-d528-40b4-8e4e-feaac3bede51"
     },
-    {
-        "name": "Ekamra  Music",
-        "id": "1561",
-        "category": "ORIYA",
-        "logo": "https://bigcchubchat.pages.dev/1199.png",
-        "url": "https://cable37tataplay.akamaized.net/musiq/musiq/index.mpd",
-        "license_type": "clearkey",
-        "keyId": "https",
-        "key": "//play.denver1769.in/KeyLelo.php?id=1199"
-    },
+    
     {
         "name": "El Confidencial TV (1080p)",
         "id": "1613",
