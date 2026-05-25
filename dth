@@ -1,5 +1,70 @@
 
 [
+
+    {
+        "name": "Filamchi Bhojpuri (1080p)",
+        "id": "377",
+        "category": "Movies",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FILAMCHI_BHOJPURI/images/LOGO_HD/image.png",
+        "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
+    },
+    {
+        "name": "ShowBox",
+        "id": "1132",
+        "category": "Music",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png",
+        "url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
+    },
+    {
+        "name": "Gubbare (1080p)",
+        "id": "2267",
+        "category": "Kids",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png",
+        "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
+    },
+    {
+        "name": "Epic TV (1080p)",
+        "id": "2418",
+        "category": "Entertainment",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",
+        "url": "https://epiconvh.akamaized.net/live/epic/master.m3u8"
+    },
+    {
+        "name": "Gubbare (1080p)",
+        "id": "2428",
+        "category": "Kids",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png",
+        "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
+    },
+    {
+        "name": "Ishara TV (1080p)",
+        "id": "2449",
+        "category": "Entertainment",
+        "logo": "https://i.imgur.com/W5YlC2v.png",
+        "url": "https://epiconvh.akamaized.net/live/ishaara/master.m3u8"
+    },
+    {
+        "name": "Nazara (1080p)",
+        "id": "2479",
+        "category": "Entertainment",
+        "logo": "https://www.epicon.in/img/nazara-logo.png",
+        "url": "https://epiconvh.akamaized.net/live/nazara/master.m3u8"
+    },
+    {
+        "name": "ShowBox",
+        "id": "2517",
+        "category": "Music",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png",
+        "url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
+    },
+    {
+        "name": "Gubbare (1080p)",
+        "id": "2616",
+        "category": "Kids",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png",
+        "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
+    },
+
     {
         "name": "SANGEET BHOJPURI",
         "id": "1708",
