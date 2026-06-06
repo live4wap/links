@@ -6,6 +6,13 @@
         "logo": "https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6",
         "url": "https://tvsen6.aynaott.com/usa/index.m3u8"
     },
+{
+        "name": "STAR SPORTS 1",
+        "id": "309",
+        "category": "Sports",
+        "logo": "https://www.medianews4u.com/wp-content/uploads/2023/11/STAR-SPORTS-FLAGSHIP-SHOW-%E2%80%98CRICKET-LIVE-GARNERS-IMMENSE-POPULARTIY-AMONGST-VIEWERS-OF-ICC-MENS-CRICKET-WORLD-CUP-2023.jpg",
+        "url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8"
+    },
     {
         "name": "3ABN Kids",
         "id": "338",
