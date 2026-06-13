@@ -1,17 +1,17 @@
 [   {
         "name": "Zee Classic",
-        "id": "12",
+        "id": "2",
         "category": "Movies",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png",
         "url": "https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209"
     },
     
     {
-        "keyId": "10616d7c4bee41f1825bd805c6295172",
-        "key": "dc85f2112f63477fb39fc149493c49be",
-        "name": "ZEE HINDUSTAN",
-        "id": "ZeeHindustan",
+        "keyId": "f5c2b30eac11be1e8cdfc9585f5fe6af",
+        "key": "a8198d17bf9b0da77450fbb919a38b2d",
+        "name": "TSN 3",
+        "id": "1",
         "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd"
+        "url": "https://cors-proxy.cooks.fyi/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
     }]
     
