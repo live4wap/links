@@ -1,1 +1,17 @@
-
+ [  {
+        "name": "Zee Classic",
+        "id": "12",
+        "category": "Movies",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png",
+        "url": "https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209"
+    },
+    
+    {
+        "keyId": "10616d7c4bee41f1825bd805c6295172",
+        "key": "dc85f2112f63477fb39fc149493c49be",
+        "name": "ZEE HINDUSTAN",
+        "id": "ZeeHindustan",
+        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd"
+    }]
+    
