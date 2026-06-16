@@ -222,8 +222,8 @@
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd"
     },
     {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"k\":\"XUCpAyOPStmKu-0Yd9Tj0Q\",\"kid\":\"9WvqrJ8SRhaHLHQcnOT6Tg\"}],\"type\":\"temporary\"}",
+        "keyId": "f56beaac9f124616872c741c9ce4fa4e",
+        "key": "5d40a903238f4ad98abbed1877d4e3d1",
         "name": "Zee Cinema HD",
         "id": "9",
         "category": "Movies",
