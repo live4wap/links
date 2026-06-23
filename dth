@@ -2,6 +2,41 @@
 [
 
 
+    {
+        "name": "Alankar",
+        "id": "279",
+        "category": "ODIA",
+        "logo": "https://hls.tarangplus.in/tpimages/otvoutputimages/Alankar/5d6f53d919521d984a000001/medium_16_9.jpg?1582270845",
+        "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8"
+    },
+    {
+        "name": "Tarang Music",
+        "id": "280",
+        "category": "ODIA",
+        "logo": "https://hls.tarangplus.in/tpimages/otvoutputimages/Tarang-Music/5d81cea319521d511800001b/medium_16_9.jpg?1578373797",
+        "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8"
+    },
+    {
+        "name": "Prarthana TV",
+        "id": "281",
+        "category": "ODIA",
+        "logo": "https://hls.tarangplus.in/otvoutputimages/Prarthana-TV/5d6f56ef19521ddc4b000010/medium_16_9.jpg?1730122173",
+        "url": "https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8"
+    },
+    {
+        "name": "Tarang TV",
+        "id": "282",
+        "category": "ODIA",
+        "logo": "https://hls.tarangplus.in/otvoutputimages/Tarang-TV/5d6f556119521ddc4b00000d/medium_16_9.jpg?1656415527",
+        "url": "https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8"
+    },
+    {
+        "name": "OTV",
+        "id": "283",
+        "category": "ODIA",
+        "logo": "https://hls.tarangplus.in/tpimages/otvoutputimages/OTV/5d5d22e119521d8a3d000001/medium_16_9.jpg?1582271529",
+        "url": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8"
+    },
 
     {
         "name": "Movie Special",
