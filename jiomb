@@ -7309,7 +7309,7 @@
         "key": "16e62faf7f2ef75112ebb98377a2a03e",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/UIPMPentathlonWC.png"
     },
-    "name": "Sonyliv 1",
+   { "name": "Sonyliv 1",
         "id": "3372",
         "category": "Sports",
         "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd",
@@ -7381,7 +7381,7 @@
         "key": "565a95f1c332c03534e1e5fcc1ff9a8b",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png"
     },
-    {
+    
     
     {
         "name": "Sonyliv 2",
