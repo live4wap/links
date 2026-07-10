@@ -8918,6 +8918,7 @@
         "key": "null",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png"
     },
+
     {
         "name": "Investigation Discovery Hindi",
         "id": "527",
@@ -9009,15 +9010,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Anjan_TV.png"
     },
     {
-        "name": "Headlines Tripura",
-        "id": "1246",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/headlinestripura/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Headlines_Tripura.png"
-    },
-    {
         "name": "BBC News Hindi",
         "id": "1431",
         "category": "Unknown",
@@ -9090,33 +9082,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNMalayalam.png"
     },
     {
-        "name": "Shemaroo Filmy Gaane",
-        "id": "3074",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/smrfgn/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/smrfgn.png"
-    },
-    {
-        "name": "Shemaroo Bollywood",
-        "id": "3075",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/smrbol/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/smrbol.png"
-    },
-    {
-        "name": "KBC News",
-        "id": "3090",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/kbcnews/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/kbcnews.png"
-    },
-    {
         "name": "National Tv India",
         "id": "3105",
         "category": "Unknown",
@@ -9124,15 +9089,6 @@
         "keyId": "072d567a75ea571091e0a794090fb84d",
         "key": "d792fed43f425a2136017b4811388ff7",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Tv_India.png"
-    },
-    {
-        "name": "Bhakthi Siri",
-        "id": "3107",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/bhakthisiri/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/bhakhtisiri.png"
     },
     {
         "name": "Garvi Gujarat Gujarati",
@@ -9171,15 +9127,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bloomberg_TV.png"
     },
     {
-        "name": "News Marathi 24x7",
-        "id": "3179",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/newsmarathi/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/newsmarathi.png"
-    },
-    {
         "name": "Animal Planet HD Telugu",
         "id": "3182",
         "category": "Unknown",
@@ -9207,15 +9154,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_News.png"
     },
     {
-        "name": "Sana TV",
-        "id": "3201",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/sanatv/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/sanatv.png"
-    },
-    {
         "name": "Shark Tank India S5",
         "id": "3223",
         "category": "Unknown",
@@ -9223,105 +9161,6 @@
         "keyId": "196eaa6b00a357c08ffb07cc6addd28a",
         "key": "bddf40c84eee560d98711d9452f21e4d",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SharkTankIndia.png"
-    },
-    {
-        "name": "The Unmute",
-        "id": "3253",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/unmute/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/unmute.png"
-    },
-    {
-        "name": "Pocket Films",
-        "id": "3259",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/p_pktflm/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/p_pktflm.png"
-    },
-    {
-        "name": "Mahua Khabar",
-        "id": "3282",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/mahuakhabar/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/mahuakhabar.png"
-    },
-    {
-        "name": "Stingray Naturescape",
-        "id": "3285",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/naturescape-a003s-dhaka/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/naturescape-a003s-dhaka.png"
-    },
-    {
-        "name": "ZenLIFE by Stingray",
-        "id": "3286",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/zenlife-zen001-seoul/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/zenlife-zen001-seoul.png"
-    },
-    {
-        "name": "Holidaycapes by Stingray",
-        "id": "3287",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/holidayscapes/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/holidayscapes.png"
-    },
-    {
-        "name": "Movie Music by Stingray",
-        "id": "3288",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/cmusic-cme004-dhaka/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/cmusic-cme004-dhaka.png"
-    },
-    {
-        "name": "Qello Concerts by Stingray",
-        "id": "3289",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/qello-qello001-dhaka/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/qello-qello001-dhaka.png"
-    },
-    {
-        "name": "Stingray Djazz",
-        "id": "3290",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/djazz-djaads-dhaka/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/djazz-djaads-dhaka.png"
-    },
-    {
-        "name": "T SAT Nipuna",
-        "id": "3302",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/tsatnipuna/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/tsatnipuna.png"
-    },
-    {
-        "name": "T SAT Vidya",
-        "id": "3304",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/tsatvidya/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/tsatvidya.png"
     },
     {
         "name": "LOVEWORLD TV",
@@ -9333,105 +9172,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Love_World.png"
     },
     {
-        "name": "Zillar Barta",
-        "id": "3317",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/zillarbarta/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/zillarbarta.png"
-    },
-    {
-        "name": "ZB Music",
-        "id": "3319",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/zbmusic/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/zbmusic.png"
-    },
-    {
-        "name": "ZB Bhakti",
-        "id": "3320",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/zbbhakti/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/zbbhakti.png"
-    },
-    {
-        "name": "ZB Cartoon",
-        "id": "3321",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/zbcatun.png"
-    },
-    {
-        "name": "ZB Cinema",
-        "id": "3322",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZBCINEMA/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZBCINEMA.png"
-    },
-    {
-        "name": "Stingray The Spa",
-        "id": "3323",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ose-122ads-montreal/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-122ads-montreal.png"
-    },
-    {
-        "name": "Stingray Todays K-Pop",
-        "id": "3324",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ose-317ads-montreal/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-317ads-montreal.png"
-    },
-    {
-        "name": "Stingray Easy Listening",
-        "id": "3325",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ose-137ads-montreal/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-137ads-montreal.png"
-    },
-    {
-        "name": "Stingray 2000s",
-        "id": "3327",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ose-232ads-montreal/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-232ads-montreal.png"
-    },
-    {
-        "name": "Aagaaz Times",
-        "id": "3328",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/aagaaztimes/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/aagaaztimes.png"
-    },
-    {
-        "name": "Mirror Media",
-        "id": "3329",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/mirrormedia/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Media.png"
-    },
-    {
         "name": "Ten News",
         "id": "3330",
         "category": "Unknown",
@@ -9439,15 +9179,6 @@
         "keyId": "c0d69f868f9b5c8b8ca376344086400f",
         "key": "cd322be392240a4d02590f3e95a3189b",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_News.png"
-    },
-    {
-        "name": "STV Bangla",
-        "id": "3331",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/sailendar/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/sailendar.png"
     },
     {
         "name": "Awaaz India TV",
@@ -9477,60 +9208,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanatan_Vedic_TV.png"
     },
     {
-        "name": "NH BollyFlix",
-        "id": "3336",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/blyflx/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/blyflx.png"
-    },
-    {
-        "name": "NH BollyGold",
-        "id": "3338",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/blygld/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/blygld.png"
-    },
-    {
-        "name": "NH BollyRaga",
-        "id": "3343",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/blyrag/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/blyrag.png"
-    },
-    {
-        "name": "Superfine Films",
-        "id": "3345",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/p_supjio/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/p_supjio.png"
-    },
-    {
-        "name": "Yahoo Finance",
-        "id": "3346",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Yahoo_Finance/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Yahoo_Finance.png"
-    },
-    {
-        "name": "Janataa TV Kannada",
-        "id": "3352",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/janataanews/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/janataanews.png"
-    },
-    {
         "name": "NE Bharat24",
         "id": "3353",
         "category": "Unknown",
@@ -9547,51 +9224,6 @@
         "keyId": "0ce03addc6115028a24d3a85def54f52",
         "key": "31c280c55d61e526c087d3c727017592",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Fast1.png"
-    },
-    {
-        "name": "Rock TV",
-        "id": "3356",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/suriyantvtamil/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/suriyantvtamil.png"
-    },
-    {
-        "name": "Dharsan TV",
-        "id": "3357",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/dharshantvtamil.png"
-    },
-    {
-        "name": "Bhagyam TV",
-        "id": "3358",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/aanadhamtvtamil.png"
-    },
-    {
-        "name": "Sana Plus",
-        "id": "3359",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/sanaplus/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/sanaplus.png"
-    },
-    {
-        "name": "Subin TV",
-        "id": "3360",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/subintvtamil/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/subintvtamil.png"
     },
     {
         "name": "Shri Shyam TV",
@@ -9729,78 +9361,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png"
     },
     {
-        "name": "P18 News",
-        "id": "3386",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/p18news/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/p18news.png"
-    },
-    {
-        "name": "INWILD",
-        "id": "3389",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Inwild/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Inwild.png"
-    },
-    {
-        "name": "INTRAVEL",
-        "id": "3392",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Intravel/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Intravel.png"
-    },
-    {
-        "name": "NTC TV",
-        "id": "3393",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ntvtamil/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ntvtamil.png"
-    },
-    {
-        "name": "Suriya TV",
-        "id": "3394",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/suryatvtamil/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/suryatvtamil.png"
-    },
-    {
-        "name": "Aaryaa TV",
-        "id": "3395",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/aryatvtamil.png"
-    },
-    {
-        "name": "Ultimate TV",
-        "id": "3396",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/utvtamil.png"
-    },
-    {
-        "name": "Swastik Stories",
-        "id": "3401",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Swastik_Stories/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swastik_Stories.png"
-    },
-    {
         "name": "DocuBay",
         "id": "3402",
         "category": "Unknown",
@@ -9817,33 +9377,6 @@
         "keyId": "1858dbd3cc7f58abaff978431d1d0ac4",
         "key": "216fd8581cb4d5c1fe8fd80b2a8e04fb",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/BHP_News_Gujarat.png"
-    },
-    {
-        "name": "Metro TV",
-        "id": "3406",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/metrotv/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/metrotv.png"
-    },
-    {
-        "name": "Roja TV",
-        "id": "3409",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/rojatv.png"
-    },
-    {
-        "name": "Roja Movies",
-        "id": "3417",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/rojamovies/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/rojamovies.png"
     },
     {
         "name": "Discovery Malayalam",
@@ -9880,33 +9413,6 @@
         "keyId": "69fd13d540b352fbbc28992effebfcff",
         "key": "7f0b1973b86719f56e18d9704a5a707b",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDKan.png"
-    },
-    {
-        "name": "Nation News",
-        "id": "3438",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/nationnews/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/nationnews.png"
-    },
-    {
-        "name": "TOI Global",
-        "id": "3440",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/npnhm84gz9/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/npnhm84gz9.png"
-    },
-    {
-        "name": "Raatdin Tripura",
-        "id": "3443",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/raatdintripura/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/raatdintripura.png"
     },
     {
         "name": "Discovery HD Tamil",
@@ -9999,15 +9505,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDMarathi.png"
     },
     {
-        "name": "Swastik TV",
-        "id": "3459",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/swastiktv/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/swastiktv.png"
-    },
-    {
         "name": "G94 News",
         "id": "3460",
         "category": "Unknown",
@@ -10053,24 +9550,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/GuaranteeNews.png"
     },
     {
-        "name": "Green Gold TV",
-        "id": "3467",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/greengold/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/greengold.png"
-    },
-    {
-        "name": "NSC9 News",
-        "id": "3469",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/nsc9/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/nsc9.png"
-    },
-    {
         "name": "GTC Punjabi",
         "id": "3470",
         "category": "Unknown",
@@ -10096,42 +9575,6 @@
         "keyId": "05dcf4433e055e2f960e8ac859afbec4",
         "key": "75a1ab16efc8145bea71a71f39c8eb04",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png"
-    },
-    {
-        "name": "Stingray Classic Rock",
-        "id": "3478",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ose-101ads-montreal/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-101ads-montreal.png"
-    },
-    {
-        "name": "Stingray Greatest Hits",
-        "id": "3479",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ose-155ads-montreal/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-155ads-montreal.png"
-    },
-    {
-        "name": "Stingray Cozy Cafe",
-        "id": "3481",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/cozycafe-400ads_cafe001-tokyo/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/cozycafe-400ads_cafe001-tokyo.png"
-    },
-    {
-        "name": "Amar Ujala",
-        "id": "3483",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/amarujala/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/amarujala.png"
     },
     {
         "name": "The Hind24 News",
@@ -10168,15 +9611,6 @@
         "keyId": "6f1de38ba45e5018b0281a1702bac8c4",
         "key": "3999eccd455e350a2f3ec725fcbf817f",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/GTCNews.png"
-    },
-    {
-        "name": "AlrightTV",
-        "id": "3492",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/alrght/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/alrght.png"
     },
     {
         "name": "Shree Sanatan TV",
@@ -10224,15 +9658,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ManasBhakti.png"
     },
     {
-        "name": "R Maxx Kannada",
-        "id": "3504",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/rmaxx/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/rmaxx.png"
-    },
-    {
         "name": "Valam TV Dayro",
         "id": "3508",
         "category": "Unknown",
@@ -10240,15 +9665,6 @@
         "keyId": "4c8eac13bf6158b38d33dd5c12d22627",
         "key": "b0d8d6ee2b666a3a8ee9d988973d2f2f",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ValamTVDayro.png"
-    },
-    {
-        "name": "Cine Jomjomat",
-        "id": "3518",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Cine_Jomjomat/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cine_Jomjomat.png"
     },
     {
         "name": "Shree Salangpur Dham",
@@ -10260,15 +9676,6 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ShreeSalangpurDham.png"
     },
     {
-        "name": "Journy",
-        "id": "3524",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/amg02159c11/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/amg02159c11.png"
-    },
-    {
         "name": "Rashtriya Pahal",
         "id": "3526",
         "category": "Unknown",
@@ -10276,250 +9683,9 @@
         "keyId": "cceb843a3a8e59a9b92f3444a86615c2",
         "key": "af38ba74aaee6566dee35ca21ba27354",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/RashtriyaPahal.png"
-    },
-    {
-        "name": "4 SiDES TV",
-        "id": "3529",
-        "category": "Unknown",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/4sites.png"
-    },
-    {
-        "name": "CNBC TV18.",
-        "id": "1495",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_TV18_NW18.png"
-    },
-    {
-        "name": "CNBC Awaaz.",
-        "id": "1496",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz_NW18.png"
-    },
-    {
-        "name": "CNBC Bazaar.",
-        "id": "1497",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bajar_NW18.png"
-    },
-    {
-        "name": "CNN News18.",
-        "id": "1498",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_News18_NW18.png"
-    },
-    {
-        "name": "News18 India.",
-        "id": "1499",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_India_NW18.png"
-    },
-    {
-        "name": "News18 Urdu.",
-        "id": "1500",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Urdu_NW18.png"
-    },
-    {
-        "name": "News18 Punjab Haryana HP.",
-        "id": "1501",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Punjab_Haryana_HP_NW18.png"
-    },
-    {
-        "name": "News18 MP Chhattisgarh.",
-        "id": "1502",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_MP_Chhattisgarh_NW18.png"
-    },
-    {
-        "name": "News18 UP Uttarakhand.",
-        "id": "1503",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_UP_Uttarakhand_NW18.png"
-    },
-    {
-        "name": "News18 Bihar Jharkhand.",
-        "id": "1504",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Bihar_Jharkhand_NW18.png"
-    },
-    {
-        "name": "News18 Rajasthan.",
-        "id": "1505",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Rajasthan_NW18.png"
-    },
-    {
-        "name": "News18 Lokmat.",
-        "id": "1506",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat_NW18.png"
-    },
-    {
-        "name": "News18 Bangla.",
-        "id": "1507",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Bangla_NW18.png"
-    },
-    {
-        "name": "News18 Gujarati.",
-        "id": "1508",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Gujarati_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Gujarati_NW18.png"
-    },
-    {
-        "name": "News18 Kannada.",
-        "id": "1509",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Kannada_NW18.png"
-    },
-    {
-        "name": "News18 Odia.",
-        "id": "1510",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Odia_NW18.png"
-    },
-    {
-        "name": "News18 Tamil Nadu.",
-        "id": "1511",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Tamil_Nadu_NW18.png"
-    },
-    {
-        "name": "News18 Kerala.",
-        "id": "1512",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Kerala_NW18.png"
-    },
-    {
-        "name": "News18 Assam North East.",
-        "id": "1513",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Assam_North_East_NW18.png"
-    },
-    {
-        "name": "History HD NW18",
-        "id": "2124",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/History_HD_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": ""
-    },
-    {
-        "name": "CNBC Tv18 Prime HD NW18",
-        "id": "2125",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": ""
-    },
-    {
-        "name": "History TV18 Hindi NW18",
-        "id": "2857",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": ""
-    },
-    {
-        "name": "Firstpost NW18",
-        "id": "2919",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": ""
-    },
-    {
-        "name": "News18 JKLH NW18",
-        "id": "3106",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_JKLH_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": ""
-    },
-    {
-        "name": "News18 International NW18",
-        "id": "3233",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_International_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_International_NW18.png"
-    },
-    {
-        "name": "Kadak NW18",
-        "id": "3494",
-        "category": "Unknown",
-        "url": "https://nw18live.cdn.jio.com/bpk-tv/Kadak_NW18_MOB/output01/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_NW18.png"
-    },
+    }
+,
+    
     {
         "name": "Channel Win",
         "id": "605",
@@ -10601,15 +9767,7 @@
         "key": "5c280a1890b9e29ad14197d7727bfc72",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png"
     },
-    {
-        "name": "ANN News",
-        "id": "1699",
-        "category": "Urdu",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/annnews/HLSPartner/index.m3u8",
-        "keyId": "null",
-        "key": "null",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/annnewssrt.png"
-    },
+    
     {
         "name": "Munsif TV",
         "id": "2017",
