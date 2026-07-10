@@ -1,4 +1,14 @@
 [
+
+{
+        "name": "ANN News",
+        "id": "1699",
+        "category": "Urdu",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/annnews/HLSPartner/index.m3u8",
+        "keyId": "null",
+        "key": "null",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/annnewssrt.png"
+    },
     {
         "name": "Headlines Tripura",
         "id": "1246",
