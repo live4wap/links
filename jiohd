@@ -7505,6 +7505,38 @@
         "key": "64cf8bec9b8133a32187241bba87d635",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pickleball_Now.png"
     },
+
+
+    {
+        "name": "Sony Sports 1",
+        "id": "33722",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd",
+        "keyId": "3525c924e54154b39533d86b1c7a428a",
+        "key": "8548b566fc6608a7d3bd601ee5f3d889",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png"
+    },
+
+    {
+        "name": "Sony Sports 2",
+        "id": "3373",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd",
+        "keyId": "91fce77f2f8056f084ed961c7ebe86ed",
+        "key": "8214bd5eb6c21444e8ea644824affd79",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png"
+    },
+{
+        "name": "Sony Sports 3",
+        "id": "33744",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd",
+        "keyId": "111e6908b965566e97139efddf7ef459",
+        "key": "c87903abbc052e1f21e51ebd928d9cb1",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png"
+    },
+
+
     {
         "name": "Sony LIV Sports 1",
         "id": "3372",
@@ -7532,6 +7564,8 @@
         "key": "6b8cce271f3cd923d0df32d45b44f6df",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png"
     },
+
+
     {
         "name": "Sony LIV Sports 4 Tamil",
         "id": "3397",
@@ -7550,15 +7584,7 @@
         "key": "572a9370c22c8b5d741352ebf8f68721",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png"
     },
-    {
-        "name": "Sony LIV Sports 5",
-        "id": "3399",
-        "category": "Sports",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd",
-        "keyId": "cee8550bf50b569d8ad2ed0c5264f0d2",
-        "key": "565a95f1c332c03534e1e5fcc1ff9a8b",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png"
-    },
+
     {
         "name": "Sony Liv Sports 4 Kannada",
         "id": "3528",
@@ -7568,6 +7594,16 @@
         "key": "e1cd78b9fc344ad20e873cff3c2354f0",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLivSports4Kan.png"
     },
+    {
+        "name": "Sony LIV Sports 5",
+        "id": "3399",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd",
+        "keyId": "cee8550bf50b569d8ad2ed0c5264f0d2",
+        "key": "565a95f1c332c03534e1e5fcc1ff9a8b",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png"
+    },
+
     {
         "name": "UIPM Pentathlon World Cup",
         "id": "3530",
