@@ -7309,14 +7309,7 @@
         "key": "16e62faf7f2ef75112ebb98377a2a03e",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/UIPMPentathlonWC.png"
     },
-   { "name": "Sonyliv 1",
-        "id": "3372",
-        "category": "Sports",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd",
-        "keyId": "4e4c5dba5bfe5a7c9338bc086eb80379",
-        "key": "b8e8932f440084e1d2b705fa52eef94b",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png"
-    },
+
 
     {
         "name": "Sony Sports 1",
@@ -7327,6 +7320,43 @@
         "key": "8548b566fc6608a7d3bd601ee5f3d889",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png"
     },
+
+    {
+        "name": "Sony Sports 2",
+        "id": "3373",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd",
+        "keyId": "91fce77f2f8056f084ed961c7ebe86ed",
+        "key": "8214bd5eb6c21444e8ea644824affd79",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png"
+    },
+{
+        "name": "Sony Sports 3",
+        "id": "33744",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd",
+        "keyId": "111e6908b965566e97139efddf7ef459",
+        "key": "c87903abbc052e1f21e51ebd928d9cb1",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png"
+    },
+
+   { "name": "Sonyliv 1",
+        "id": "3372",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd",
+        "keyId": "4e4c5dba5bfe5a7c9338bc086eb80379",
+        "key": "b8e8932f440084e1d2b705fa52eef94b",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png"
+    },
+{
+        "name": "Sonyliv 2",
+        "id": "3373",
+        "category": "Sports",
+        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd",
+        "keyId": "ef24516ae38b50d18049343cd1cd998a",
+        "key": "eb4810ec250a1795a0019dba7881ff45",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png"
+    },
 {
         "name": "Sonyliv 3",
         "id": "3374",
@@ -7334,15 +7364,6 @@
         "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd",
         "keyId": "3afa887864e6545aa006db21aeb39054",
         "key": "6b8cce271f3cd923d0df32d45b44f6df",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png"
-    },
-    {
-        "name": "Sony Sports 3",
-        "id": "33744",
-        "category": "Sports",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd",
-        "keyId": "111e6908b965566e97139efddf7ef459",
-        "key": "c87903abbc052e1f21e51ebd928d9cb1",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png"
     },
     {
@@ -7383,15 +7404,6 @@
     },
     
     
-    {
-        "name": "Sonyliv 2",
-        "id": "3373",
-        "category": "Sports",
-        "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd",
-        "keyId": "ef24516ae38b50d18049343cd1cd998a",
-        "key": "eb4810ec250a1795a0019dba7881ff45",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png"
-    },
     
     {
         "name": "sonic Tamil",
