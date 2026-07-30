@@ -272,6 +272,12 @@
         "name": "TLC HD",
         "url": "https://stream.ottplus.live/live/tlc_hd/chunks.m3u8"
     },
+{
+        "id": "ekhon_tv",
+        "logo": "https://yt3.googleusercontent.com/FPl--HCi7e1-FEv8lTdrUN3Cmgf7jU4_er8_5Hy7qVbbG0fAdiFn1tMrACnAc-QgrEO5Vbl0=s176-c-k-c0x00ffffff-no-rj-mo",
+        "name": "EKHON TV",
+        "url": "https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8"
+    },
     {
         "id": "hum_tv",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png",
