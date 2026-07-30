@@ -9,7 +9,7 @@
         "id": "sonybbc_earth_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",
         "name": "Sony BBC Earth HD",
-        "url": ""
+        "url": "https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8"
     },
     {
         "id": "sony_entertainment",
@@ -27,7 +27,7 @@
         "id": "sony_max",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
         "name": "Sony MAX",
-        "url": ""
+        "url": "https://stream.ottplus.live/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8"
     },
     {
         "id": "sonymax_2",
@@ -45,7 +45,7 @@
         "id": "sonypix_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
         "name": "Sony PIX HD",
-        "url": ""
+        "url": "https://stream.ottplus.live/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8"
     },
     {
         "id": "sonysab_hd",
@@ -159,7 +159,13 @@
         "id": "animal_planet_sd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp",
         "name": "Animal Planet",
-        "url": ""
+        "url": "https://stream.ottplus.live/live/animal_planet_sd_abr/live/animal_plnet_sd/chunks.m3u8"
+    },
+{
+        "id": "animal_planet",
+        "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",
+        "name": "Animal Planet HD",
+        "url": "https://stream.ottplus.live/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8"
     },
     {
         "id": "animal_planet_hd",
