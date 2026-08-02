@@ -1,4 +1,146 @@
 [
+{
+        "name": "STAR SPORTS 1",
+        "id": "309",
+        "category": "Sports",
+        "logo": "https://www.medianews4u.com/wp-content/uploads/2023/11/STAR-SPORTS-FLAGSHIP-SHOW-%E2%80%98CRICKET-LIVE-GARNERS-IMMENSE-POPULARTIY-AMONGST-VIEWERS-OF-ICC-MENS-CRICKET-WORLD-CUP-2023.jpg",
+        "url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+        "name": "A sports",
+        "id": "230",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",
+        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+        "name": "Bloomberg TV",
+        "id": "245",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",
+        "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8"
+    },
+    {
+        "name": "BT Sports 2",
+        "id": "236",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a",
+        "url": "https://tvsen6.aynaott.com/btSport2/index.m3u8"
+    },
+    {
+        "name": "Cricket Gold",
+        "id": "231",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",
+        "url": "https://tvsen6.aynaott.com/CricketGold/index.m3u8"
+    },
+    {
+        "name": "Espn",
+        "id": "237",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",
+        "url": "https://tvsen5.aynaott.com/espn/index.m3u8"
+    },
+    {
+        "name": "Fox Sports 2",
+        "id": "234",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5",
+        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8"},
+    {
+        "name": "Golf Channel",
+        "id": "232",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",
+        "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8"
+    },
+    {
+        "name": "Marquee Sports Network",
+        "id": "242",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",
+        "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8"
+    },
+    {
+        "name": "NFL Network",
+        "id": "248",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b",
+        "url": "https://tvsen6.aynaott.com/nfl/index.m3u8"
+    },
+    {
+        "name": "PTV Sports",
+        "id": "229",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
+        "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8"
+    },
+    {
+        "name": "Sports Grid",
+        "id": "243",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",
+        "url": "https://tvsen6.aynaott.com/SportsGrid/index.m3u8"
+    },
+    {
+        "name": "T Sports (720p)",
+        "id": "166",
+        "category": "Sports",
+        "logo": "https://i.imgur.com/2JzlorD.png",
+        "url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8"
+    },
+    {
+        "name": "T Sports HD",
+        "id": "228",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
+        "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
+    },
+
+{
+        "name": "Talk Sport",
+        "id": "239",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",
+        "url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8"
+    },
+    {
+        "name": "TNT Sport 1",
+        "id": "249",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c",
+        "url": "https://tvsen6.aynaott.com/btSport1/index.m3u8"
+    },
+    {
+        "name": "TSN 1",
+        "id": "250",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
+        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8"
+    },
+    {
+        "name": "TSN 2",
+        "id": "238",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",
+        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8"
+    },
+    {
+        "name": "TSN 3",
+        "id": "251",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7",
+        "url": "https://tvsen7.aynaott.com/tsn3/index.m3u8"
+    },
+    {
+        "name": "Willow TV",
+        "id": "247",
+        "category": "Sports",
+        "logo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+    },
+
+
     {
         "name": "Ananda TV",
         "id": "186",
@@ -775,145 +917,7 @@
         "category": "Religious",
         "logo": "https://s3.aynaott.com/storage/5b8848e0ec2d5cd133fadef42317dec5",
         "url": "https://tvsen7.aynaott.com/takbeer/index.m3u8"
-    },
-    {
-        "name": "STAR SPORTS 1",
-        "id": "309",
-        "category": "Sports",
-        "logo": "https://www.medianews4u.com/wp-content/uploads/2023/11/STAR-SPORTS-FLAGSHIP-SHOW-%E2%80%98CRICKET-LIVE-GARNERS-IMMENSE-POPULARTIY-AMONGST-VIEWERS-OF-ICC-MENS-CRICKET-WORLD-CUP-2023.jpg",
-        "url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-        "name": "A sports",
-        "id": "230",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",
-        "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-        "name": "Bloomberg TV",
-        "id": "245",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",
-        "url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8"
-    },
-    {
-        "name": "BT Sports 2",
-        "id": "236",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a",
-        "url": "https://tvsen6.aynaott.com/btSport2/index.m3u8"
-    },
-    {
-        "name": "Cricket Gold",
-        "id": "231",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",
-        "url": "https://tvsen6.aynaott.com/CricketGold/index.m3u8"
-    },
-    {
-        "name": "Espn",
-        "id": "237",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",
-        "url": "https://tvsen5.aynaott.com/espn/index.m3u8"
-    },
-    {
-        "name": "Fox Sports 2",
-        "id": "234",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8"
-    },
-    {
-        "name": "Golf Channel",
-        "id": "232",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",
-        "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8"
-    },
-    {
-        "name": "Marquee Sports Network",
-        "id": "242",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",
-        "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8"
-    },
-    {
-        "name": "NFL Network",
-        "id": "248",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b",
-        "url": "https://tvsen6.aynaott.com/nfl/index.m3u8"
-    },
-    {
-        "name": "PTV Sports",
-        "id": "229",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
-        "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8"
-    },
-    {
-        "name": "Sports Grid",
-        "id": "243",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",
-        "url": "https://tvsen6.aynaott.com/SportsGrid/index.m3u8"
-    },
-    {
-        "name": "T Sports (720p)",
-        "id": "166",
-        "category": "Sports",
-        "logo": "https://i.imgur.com/2JzlorD.png",
-        "url": "https://tvsen7.aynaott.com/tsportshd/index.m3u8"
-    },
-    {
-        "name": "T Sports HD",
-        "id": "228",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
-        "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
-    },
-    {
-        "name": "Talk Sport",
-        "id": "239",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",
-        "url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8"
-    },
-    {
-        "name": "TNT Sport 1",
-        "id": "249",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c",
-        "url": "https://tvsen6.aynaott.com/btSport1/index.m3u8"
-    },
-    {
-        "name": "TSN 1",
-        "id": "250",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
-        "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8"
-    },
-    {
-        "name": "TSN 2",
-        "id": "238",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",
-        "url": "https://tvsen7.aynaott.com/tsn2/index.m3u8"
-    },
-    {
-        "name": "TSN 3",
-        "id": "251",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7",
-        "url": "https://tvsen7.aynaott.com/tsn3/index.m3u8"
-    },
-    {
-        "name": "Willow TV",
-        "id": "247",
-        "category": "Sports",
-        "logo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
-        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
     }
+        
+    
 ]
