@@ -1,5 +1,14 @@
 [
     {
+        "name": "Star Sports khel",
+        "id": "1",
+        "category": "Sports",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd",
+        "keyId": "ab947ddbb9795d38bff35597b4f73108",
+        "key": "2671e22eb7dc174c35b6aad4b113f7b0",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png"
+    },
+{
         "name": "Newslive",
         "id": "613",
         "category": "Assamese",
