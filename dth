@@ -3291,6 +3291,20 @@
         "logo": "https://i.ibb.co/1Gw3NFgH/channels4-profile-3.jpg",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8"
     },
+{
+        "name": "COLORS RISHTEY",
+        "id": "4134",
+        "category": "ENTERTAINMENT",
+        "logo": "https://i.ibb.co/fzXyG9kM/images-10.jpg",
+        "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8"
+    },
+{
+        "name": "GOLDMINES Bollywood",
+        "id": "4168",
+        "category": "HINDI MOVIES",
+        "logo": "https://i.ibb.co/fzXyG9kM/images-10.jpg",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
+    },
     {
         "name": "SHEMAROO TV",
         "id": "514",
