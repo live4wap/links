@@ -988,5 +988,14 @@
         "keyId": "2272c0bc6b2e5cb090b1f55996e0026c",
         "key": "943923934de1d5536ab01c67fca8b337",
         "logo": "https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg"
+    },
+{
+        "name": "Star Sports khel",
+        "id": "1",
+        "category": "Sports",
+        "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd",
+        "keyId": "ab947ddbb9795d38bff35597b4f73108",
+        "key": "2671e22eb7dc174c35b6aad4b113f7b0",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b08482463e0f57a9fccdb5e848b182bb.png"
     }
 ]
