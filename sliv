@@ -1,6 +1,7 @@
 [
     {
         "id": "2011671",
+        "id1": "1000009246",
         "name": "SETHD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
         "genre": "Entertainment",
@@ -9,6 +10,7 @@
     },
     {
         "id": "2011749",
+        "id1": "1000009248",
         "name": "SABHD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
         "genre": "Entertainment",
@@ -17,6 +19,7 @@
     },
     {
         "id": "2011740",
+        "id1": "1000009259",
         "name": "SonyMarathi",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
         "genre": "Entertainment",
@@ -25,6 +28,7 @@
     },
     {
         "id": "2011741",
+        "id1": "1000009273",
         "name": "SonyPalSD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
         "genre": "Movies",
@@ -33,6 +37,7 @@
     },
     {
         "id": "2011641",
+        "id1": "1000009255",
         "name": "SonyAathSD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",
         "genre": "Entertainment",
@@ -41,6 +46,7 @@
     },
     {
         "id": "2011746",
+        "id1": "1000001971",
         "name": "SonyYaySD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
         "genre": "Kids",
@@ -49,6 +55,7 @@
     },
     {
         "id": "2011670",
+        "id1": "1000009247",
         "name": "SonyMaxhd",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
         "genre": "Movies",
@@ -57,6 +64,7 @@
     },
     {
         "id": "2011745",
+        "id1": "1000009249",
         "name": "SonyMaxSD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
         "genre": "Movies",
@@ -65,6 +73,7 @@
     },
     {
         "id": "2011906",
+        "id1": "1000009253",
         "name": "SonyWah",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
         "genre": "Movies",
@@ -73,6 +82,7 @@
     },
     {
         "id": "2011908",
+        "id1": "1000044878",
         "name": "MAX2",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",
         "genre": "Movies",
@@ -81,6 +91,7 @@
     },
     {
         "id": "2011748",
+        "id1": "1000009258",
         "name": "PIXHD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
         "genre": "Movies",
@@ -89,6 +100,7 @@
     },
     {
         "id": "2011747",
+        "id1": "1000009276",
         "name": "TEN1HD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",
         "genre": "Sports",
@@ -97,6 +109,7 @@
     },
     {
         "id": "2011739",
+        "id1": "1000009280",
         "name": "TEN1SD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
         "genre": "Sports",
@@ -105,6 +118,7 @@
     },
     {
         "id": "2020434",
+        "id1": "1000009277",
         "name": "TEN2HD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
         "genre": "Sports",
@@ -113,6 +127,7 @@
     },
     {
         "id": "2020590",
+        "id1": "1000009279",
         "name": "TEN2SD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
         "genre": "Sports",
@@ -121,6 +136,7 @@
     },
     {
         "id": "2020591",
+        "id1": "1000009278",
         "name": "TEN3HD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
         "genre": "Sports",
@@ -129,6 +145,7 @@
     },
     {
         "id": "2020592",
+        "id1": "1000009283",
         "name": "TEN3SD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
         "genre": "Sports",
@@ -137,6 +154,7 @@
     },
     {
         "id": "2020589",
+        "id1": "1000119186",
         "name": "ten4hd",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
         "genre": "Sports",
@@ -145,6 +163,7 @@
     },
     {
         "id": "2020437",
+        "id1": "1000119187",
         "name": "ten4sd",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
         "genre": "Sports",
@@ -153,6 +172,7 @@
     },
     {
         "id": "2020593",
+        "id1": "1000009281",
         "name": "SONYSIXHD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
         "genre": "Sports",
@@ -161,6 +181,7 @@
     },
     {
         "id": "2020594",
+        "id1": "1000009281",
         "name": "SONYSIXSD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
         "genre": "Sports",
@@ -169,6 +190,7 @@
     },
     {
         "id": "2011907",
+        "id1": "821",
         "name": "SonyBBCEarthHD",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
         "genre": "Infotainment",
