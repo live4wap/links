@@ -1,4 +1,12 @@
 [
+
+{
+        "name": "COLORS RISHTEY",
+        "id": "1",
+        "category": "ENTERTAINMENT",
+        "logo": "https://i.ibb.co/fzXyG9kM/images-10.jpg",
+        "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8"
+    },
     {
         "name": "ADN TV+",
         "id": "2",
@@ -6,6 +14,7 @@
         "logo": "https://i.imgur.com/HQZQyWt.png",
         "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8"
     },
+
     {
         "name": "Yaaro Ka Yaar Media Channel ᴴᴰ",
         "id": "4",
@@ -533,6 +542,13 @@
         "category": "HINDI MOVIES",
         "logo": "https://i.ibb.co/S4jZWQ8Y/images-11.jpg",
         "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
+    },
+{
+        "name": "GOLDMINES Bollywood",
+        "id": "428",
+        "category": "HINDI MOVIES",
+        "logo": "https://i.ibb.co/fzXyG9kM/images-10.jpg",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
     },
     {
         "name": "B4U KADAK",
@@ -4253,20 +4269,8 @@
         "logo": "https://i.ibb.co/9HLN8nDz/images.png",
         "url": "https://cdn-7.pishow.tv/live/40/master.m3u8"
     },
-    {
-        "name": "COLORS RISHTEY",
-        "id": "4134",
-        "category": "ENTERTAINMENT",
-        "logo": "https://i.ibb.co/fzXyG9kM/images-10.jpg",
-        "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8"
-    },
-    {
-        "name": "GOLDMINES Bollywood",
-        "id": "4168",
-        "category": "HINDI MOVIES",
-        "logo": "https://i.ibb.co/fzXyG9kM/images-10.jpg",
-        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
-    },
+    
+    
     {
         "name": "KCM (1080p) [Geo-blocked]",
         "id": "426_2",
