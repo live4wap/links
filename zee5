@@ -1,4 +1,12 @@
 [
+{
+        "keyId": "e874f3a7e5de42fca2b2a93b318fa52e",
+        "key": "a77f240d277c47a5a0bc934072c4d7da",
+        "name": "Music India",
+        "id": "Musicindia",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/5b3d87a168699ad7bb6ac6b304f3de4d.png",
+        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd"
+    },
     {
         "keyId": "8dea532cabfe4f71ba20f62310e7949f",
         "key": "7a214a974e4f4d1d9bb66364d5f0cb92",
