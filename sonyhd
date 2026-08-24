@@ -1,0 +1,200 @@
+[
+    {
+        "id1": "2011671",
+        "id": "1000009246",
+        "name": "SETHD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
+        "genre": "Entertainment",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/"
+    },
+    {
+        "id1": "2011749",
+        "id": "1000009248",
+        "name": "SABHD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+        "genre": "Entertainment",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/"
+    },
+    {
+        "id1": "2011740",
+        "id": "1000009259",
+        "name": "SonyMarathi",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+        "genre": "Entertainment",
+        "language": "Marathi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/"
+    },
+    {
+        "id1": "2011741",
+        "id": "1000009273",
+        "name": "SonyPalSD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
+        "genre": "Movies",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/"
+    },
+    {
+        "id1": "2011641",
+        "id": "1000009255",
+        "name": "SonyAathSD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",
+        "genre": "Entertainment",
+        "language": "Bengali",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/"
+    },
+    {
+        "id1": "2011746",
+        "id": "1000001971",
+        "name": "SonyYaySD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+        "genre": "Kids",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD"
+    },
+    {
+        "id1": "2011670",
+        "id": "1000009247",
+        "name": "SonyMaxhd",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+        "genre": "Movies",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/"
+    },
+    {
+        "id1": "2011745",
+        "id": "1000009249",
+        "name": "SonyMaxSD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+        "genre": "Movies",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/"
+    },
+    {
+        "id1": "2011906",
+        "id": "1000009253",
+        "name": "SonyWah",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
+        "genre": "Movies",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/"
+    },
+    {
+        "id1": "2011908",
+        "id": "1000044878",
+        "name": "MAX2",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+        "genre": "Movies",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/"
+    },
+    {
+        "id1": "2011748",
+        "id": "1000009258",
+        "name": "PIXHD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+        "genre": "Movies",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/"
+    },
+    {
+        "id1": "2011747",
+        "id": "1000009276",
+        "name": "TEN1HD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",
+        "genre": "Sports",
+        "language": "English",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/"
+    },
+    {
+        "id1": "2011739",
+        "id": "1000009280",
+        "name": "TEN1SD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
+        "genre": "Sports",
+        "language": "English",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/"
+    },
+    {
+        "id1": "2020434",
+        "id": "1000009277",
+        "name": "TEN2HD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
+        "genre": "Sports",
+        "language": "English",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/"
+    },
+    {
+        "id1": "2020590",
+        "id": "1000009279",
+        "name": "TEN2SD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
+        "genre": "Sports",
+        "language": "English",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/"
+    },
+    {
+        "id1": "2020591",
+        "id": "1000009278",
+        "name": "TEN3HD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
+        "genre": "Sports",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/"
+    },
+    {
+        "id1": "2020592",
+        "id": "1000009283",
+        "name": "TEN3SD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
+        "genre": "Sports",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/"
+    },
+    {
+        "id1": "2020589",
+        "id": "1000119186",
+        "name": "ten4hd",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
+        "genre": "Sports",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/"
+    },
+    {
+        "id1": "2020437",
+        "id": "1000119187",
+        "name": "ten4sd",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
+        "genre": "Sports",
+        "language": "Telugu",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/"
+    },
+    {
+        "id1": "2020593",
+        "id": "1000009281",
+        "name": "SONYSIXHD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
+        "genre": "Sports",
+        "language": "Hindi",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/"
+    },
+    {
+        "id1": "2020594",
+        "id": "1000009281",
+        "name": "SONYSIXSD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
+        "genre": "Sports",
+        "language": "English",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/"
+    },
+    {
+        "id1": "2011907",
+        "id": "821",
+        "name": "SonyBBCEarthHD",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+        "genre": "Infotainment",
+        "language": "English",
+        "m3u8": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/"
+    }
+]
