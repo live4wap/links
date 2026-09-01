@@ -29,7 +29,7 @@
         "id": "sonyentertainmnt_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",
         "name": "Sony Entertainment Television HD",
-        "url": "https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/sony_ent_hd_abr/live/sony_ent_hd_720/chunks.m3u8"
     },
 
 {
