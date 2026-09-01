@@ -23,13 +23,13 @@
         "id": "sony_entertainment",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",
         "name": "Sony Entertainment Television",
-        "url": "https://s3.itcnbd.live/server-2/stream/sony_entertainment.m3u8"
+        "url": "https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_sd_720/chunks.m3u8"
     },
     {
         "id": "sonyentertainmnt_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",
         "name": "Sony Entertainment Television HD",
-        "url": "https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8"
+        "url": "https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_hd_720/chunks.m3u8"
     },
 
 {
