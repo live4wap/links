@@ -38,8 +38,8 @@
         "id": "sonysab_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",
         "name": "Sony SAB HD",
-        "url": "https://s3.itcnbd.live/server-2/stream/sonysab_hd.m3u8",
-        "url1": "https://drk6xq0vhn.gpcdn.net/live/sonysab_hd/index.m3u8"
+        "url": "https://stream.ottplus.live/live/sub_hd_abr/index.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8"
     },
     {
         "id": "sonyyay",
