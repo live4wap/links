@@ -66,7 +66,7 @@
         "id": "sonymax_2",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",
         "name": "Sony MAX 2",
-        "url": "https://stream.ottplus.live/live/max_2/live/max_2/chunks.m3u8",
+        "url": "https://stream.ottplus.live/live/max_2_abr/live/max_2_720/chunks.m3u8",
         "url1": "https://drk6xq0vhn.gpcdn.net/live/max_2/index.m3u8"
     },
     {
