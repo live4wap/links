@@ -1,13 +1,4 @@
 [
-{ "id": "45", "name": "Sony Sports 1", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd", "keyId": "3525c924e54154b39533d86b1c7a428a", "key": "8548b566fc6608a7d3bd601ee5f3d889" },
-      { "id": "46", "name": "Sony Sports 2", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd", "keyId": "91fce77f2f8056f084ed961c7ebe86ed", "key": "8214bd5eb6c21444e8ea644824affd79" },
-      { "id": "47", "name": "Sony Sports 3", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd", "keyId": "111e6908b965566e97139efddf7ef459", "key": "c87903abbc052e1f21e51ebd928d9cb1" },
-      { "id": "48", "name": "Sony Sports 1 SD", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd", "keyId": "3394be91407c5fe99d784d2f2d6d4a12", "key": "58665e1df41f9f22ed73c56384bb3f51" },
-      { "id": "49", "name": "Sony Sports 2 SD", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd", "keyId": "671ce7c8ccc95e0a95cba0d12831d12e", "key": "175d284c9647b6feb379e7c1650a4f82" },
-      { "id": "50", "name": "Sony Sports 3 SD", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd", "keyId": "68318f7c97c55ba6ab8d0398a88fed3e", "key": "d312fb3325b4eb9462b4a0d2b6794adf" },
-      { "id": "51", "name": "Sony Sports 4 Tamil", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd", "keyId": "0df5f800775c5979ab8aeaff28ee674b", "key": "47dd1b9c8d4049760059aab27bddf1cb" },
-      { "id": "52", "name": "Sony Sports 4 Telugu", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd", "keyId": "494a8a050ecc5a22adab6dc304ead1b4", "key": "9b3bbf2ccb71a876a2bbeb9cde00d7bf" },
-      { "id": "53", "name": "Sony Sports 5 SD", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd", "keyId": "d2d8709de11d5955b60c57d3c955733e", "key": "7655200b24bf82808fb8addf2f02847b" },
     {
         "name": "Newslive",
         "id": "613",
@@ -7322,7 +7313,7 @@
 
     {
         "name": "Sony Sports 1",
-        "id": "33722",
+        "id": "45",
         "category": "Sports",
         "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd",
         "keyId": "3525c924e54154b39533d86b1c7a428a",
@@ -7332,7 +7323,7 @@
 
     {
         "name": "Sony Sports 2",
-        "id": "3373",
+        "id": "46",
         "category": "Sports",
         "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd",
         "keyId": "91fce77f2f8056f084ed961c7ebe86ed",
@@ -7341,7 +7332,7 @@
     },
 {
         "name": "Sony Sports 3",
-        "id": "33744",
+        "id": "47",
         "category": "Sports",
         "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd",
         "keyId": "111e6908b965566e97139efddf7ef459",
@@ -7349,6 +7340,13 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png"
     },
 
+
+      { "id": "48", "name": "Sony ten 1 SD", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd", "keyId": "3394be91407c5fe99d784d2f2d6d4a12", "key": "58665e1df41f9f22ed73c56384bb3f51" },
+      { "id": "49", "name": "Sony ten 2 SD", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd", "keyId": "671ce7c8ccc95e0a95cba0d12831d12e", "key": "175d284c9647b6feb379e7c1650a4f82" },
+      { "id": "50", "name": "Sony ten 3 SD", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd", "keyId": "68318f7c97c55ba6ab8d0398a88fed3e", "key": "d312fb3325b4eb9462b4a0d2b6794adf" },
+      { "id": "51", "name": "Sony ten 4 Tamil", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd", "keyId": "0df5f800775c5979ab8aeaff28ee674b", "key": "47dd1b9c8d4049760059aab27bddf1cb" },
+      { "id": "52", "name": "Sony ten 4 Telugu", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd", "keyId": "494a8a050ecc5a22adab6dc304ead1b4", "key": "9b3bbf2ccb71a876a2bbeb9cde00d7bf" },
+      { "id": "53", "name": "Sony ten 5 SD", "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd", "keyId": "d2d8709de11d5955b60c57d3c955733e", "key": "7655200b24bf82808fb8addf2f02847b" },
    { "name": "Sonyliv 1",
         "id": "3372",
         "category": "Sports",
