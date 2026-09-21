@@ -1,303 +1,331 @@
 [
-
     {
         "id": "andpicture_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/QMwWnZUBtpl-Sbt7S2sx/posters/f2e6acfd-0031-4ca4-b954-c014a0c99058.png",
         "name": "& Pictures HD",
-        "url": "https://stream.ottplus.live/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_720/index.m3u8"
     },
     {
         "id": "and_tv_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5cwRnZUBtpl-Sbt7wWrN/posters/28335dab-169c-49b6-8d10-ef697f940307.png",
         "name": "&TV HD",
-        "url": "https://stream.ottplus.live/live/and_tv_hd_abr/live/and_tv_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/and_tv_hd_abr/live/and_tv_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_720/index.m3u8"
     },
     {
         "id": "sonyaath",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",
         "name": "Sony Aath",
-        "url": "https://stream.ottplus.live/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sony_aath_720/index.m3u8"
     },
-    
     {
         "id": "sony_entertainment",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",
         "name": "Sony Entertainment Television",
-        "url": "https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_sd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_sd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_720/index.m3u8"
     },
     {
         "id": "sonyentertainmnt_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",
         "name": "Sony Entertainment Television HD",
-        "url": "https://stream.ottplus.live/live/sony_ent_hd_abr/live/sony_ent_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/sony_ent_hd_abr/live/sony_ent_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_720/index.m3u8"
     },
-
-{
+    {
         "id": "sonysab_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",
         "name": "Sony SAB HD",
-        "url": "https://s3.itcnbd.live/server-2/stream/sonysab_hd.m3u8"
+        "url": "https://s3.itcnbd.live/server-2/stream/sonysab_hd.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sonysab_hd/index.m3u8"
     },
-
-{
+    {
         "id": "sonyyay",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",
         "name": "Sony YAY",
-        "url": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_720/index.m3u8"
     },
-
-{
+    {
         "id": "sonybbc_earth_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",
         "name": "Sony BBC Earth HD",
-        "url": "https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8"
+        "url": "https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sony_bbc_earth_hd_720/index.m3u8"
     },
     {
         "id": "sony_max",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",
         "name": "Sony MAX",
-        "url": "https://stream.ottplus.live/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_720/index.m3u8"
     },
     {
         "id": "sonymax_2",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",
         "name": "Sony MAX 2",
-        "url": "https://stream.ottplus.live/live/max_2/live/max_2/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/max_2/live/max_2/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/max_2/index.m3u8"
     },
     {
         "id": "sony_max_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",
         "name": "Sony MAX HD",
-        "url": "https://stream.ottplus.live/live/max_hd_abr/live/max_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/max_hd_abr/live/max_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/max_hd_720/index.m3u8"
     },
     {
         "id": "sonypix_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",
         "name": "Sony PIX HD",
-        "url": "https://stream.ottplus.live/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/sony_pix_hd_720/index.m3u8"
     },
-    
     {
         "id": "ten_cricket",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
         "name": "Sony Ten Cricket",
-        "url": "https://stream.ottplus.live/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_720/index.m3u8"
     },
     {
         "id": "sony_sports_1_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",
         "name": "Sony Ten Sports 1 HD",
-        "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8"
     },
     {
         "id": "sony_sports_2_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/a664bf2a-af9c-4e79-89df-50a40a6e3e66.png",
         "name": "Sony Ten Sports 2 HD",
-        "url": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8"
     },
-    
     {
         "id": "sony_sports_5_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/241705c1-06a9-4694-92c6-0013d1879e42.webp",
         "name": "Sony Ten Sports 5 HD ",
-        "url": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8"
     },
     {
         "id": "euro_sports_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",
         "name": "Eurosport HD",
-        "url": "https://stream.ottplus.live/live/euro_sports_hd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/euro_sports_hd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd/index.m3u8"
     },
-
-{
+    {
         "id": "zee_cinema_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/794fd415-1b0a-49b5-b91b-2f62ba6cd759.png",
         "name": "Zee Cinema HD",
-        "url": "https://stream.ottplus.live/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_720/index.m3u8"
     },
     {
         "id": "zee_tv_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/f81d0cc9-c00e-4839-951a-b754e0e6c58f.png",
         "name": "Zee TV HD",
-        "url": "https://stream.ottplus.live/live/zee_tv_hd_abr/live/zee_tv_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/zee_tv_hd_abr/live/zee_tv_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_720/index.m3u8"
     },
     {
         "id": "zee_action",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png",
         "name": "Zee Action",
-        "url": "https://stream.ottplus.live/live/zee_action_abr/live/zee_action_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/zee_action_abr/live/zee_action_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zee_action_720/index.m3u8"
     },
     {
         "id": "zee_anmol",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png",
         "name": "Zee Anmol",
-        "url": "https://stream.ottplus.live/live/zee_anmol_abr/live/zee_anmol_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/zee_anmol_abr/live/zee_anmol_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_720/index.m3u8"
     },
     {
         "id": "zee_bangla",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/16e111ed-2335-4391-9618-f840e4c4a6a2.png",
         "name": "Zee Bangla",
-        "url": "https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8"
     },
     {
         "id": "zee_bangla_cinema",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/1f43be2f-f8d9-4a0c-b0cb-971a18a6771c.png",
         "name": "Zee Bangla Cinema",
-        "url": "https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_720/index.m3u8"
     },
     {
         "id": "zee_bollywood",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png",
         "name": "Zee Bollywood",
-        "url": "https://stream.ottplus.live/live/zee_bollywood_abr/live/zee_bollywood_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/zee_bollywood_abr/live/zee_bollywood_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_720/index.m3u8"
     },
     {
         "id": "zee_cafe_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png",
         "name": "Zee Cafe",
-        "url": ""
+        "url": "",
+        "url1": ""
     },
-    
     {
         "id": "zing_sd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png",
         "name": "Zing",
-        "url": "https://stream.ottplus.live/live/zing_sd_abr/live/zing_sd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/zing_sd_abr/live/zing_sd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zing_sd_720/index.m3u8"
     },
-
-
-
     {
         "id": "b4u_movies",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp",
         "name": "B4U Movies APAC",
-        "url": "https://stream.ottplus.live/live/b4u_movies/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/b4u_movies/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/b4u_movies/index.m3u8"
     },
     {
         "id": "b4u_music",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/PS6F-JQBv9knK3AHqjVz/posters/0f83ee72-be0f-4861-94df-30b158d3df8d.webp",
         "name": "B4U Music",
-        "url": "https://stream.ottplus.live/live/b4u_music/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/b4u_music/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/b4u_music/index.m3u8"
     },
     {
         "id": "animal_planet_sd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp",
         "name": "Animal Planet",
-        "url": "https://stream.ottplus.live/live/animal_planet_sd_abr/live/animal_plnet_sd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/animal_planet_sd_abr/live/animal_plnet_sd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/animal_plnet_sd/index.m3u8"
     },
-{
+    {
         "id": "animal_planet",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",
         "name": "Animal Planet HD",
-        "url": "https://stream.ottplus.live/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8"
     },
     {
         "id": "animal_planet_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",
         "name": "Animal Planet HD",
-        "url": "https://stream.ottplus.live/live/animal_planet_hd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/animal_planet_hd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8"
     },
-
-{
+    {
         "id": "pogo_sd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp",
         "name": "POGO",
-        "url": "https://stream.ottplus.live/live/pogo_sd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/pogo_sd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd/index.m3u8"
     },
     {
         "id": "cartoon_network_sd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp",
         "name": "Cartoon Network",
-        "url": "https://stream.ottplus.live/live/cn_sd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/cn_sd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/cn_sd/index.m3u8"
     },
     {
         "id": "cartoon_network_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",
         "name": "Cartoon Network HD +",
-        "url": "https://stream.ottplus.live/live/cn_hd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/cn_hd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/cn_hd/index.m3u8"
     },
     {
         "id": "cnn",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp",
         "name": "CNN",
-        "url": "https://stream.ottplus.live/live/cnn_sd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/cnn_sd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/cnn_sd/index.m3u8"
     },
     {
         "id": "discovery_sd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",
         "name": "Discovery",
-        "url": "https://stream.ottplus.live/live/discovery_sd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/discovery_sd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd/index.m3u8"
     },
     {
         "id": "discovery_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",
         "name": "Discovery HD",
-        "url": "https://stream.ottplus.live/live/discovery_hd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/discovery_hd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd/index.m3u8"
     },
     {
         "id": "discovery_kids",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",
         "name": "Discovery Kids",
-        "url": "https://stream.ottplus.live/live/discovery_kids/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/discovery_kids/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids/index.m3u8"
     },
     {
         "id": "discovery_science",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",
         "name": "Discovery Science",
-        "url": "https://stream.ottplus.live/live/discovery_science/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/discovery_science/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/discovery_science/index.m3u8"
     },
     {
         "id": "discovery_turbo",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",
         "name": "Discovery Turbo",
-        "url": "https://stream.ottplus.live/live/discovery_turbo_abr/live/discovery_turbo_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/discovery_turbo_abr/live/discovery_turbo_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_720/index.m3u8"
     },
-        {
+    {
         "id": "discovary_investigation_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png",
         "name": "Investigation Discovery HD",
-        "url": "https://stream.ottplus.live/live/id_hd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/id_hd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/id_hd/index.m3u8"
     },
-    
-    
     {
         "id": "tlc_sd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp",
         "name": "TLC",
-        "url": "https://stream.ottplus.live/live/tlc_sd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/tlc_sd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/tlc_sd/index.m3u8"
     },
     {
         "id": "tlc_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp",
         "name": "TLC HD",
-        "url": "https://stream.ottplus.live/live/tlc_hd/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/tlc_hd/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/tlc_hd/index.m3u8"
     },
-{
+    {
         "id": "ekhon_tv",
         "logo": "https://yt3.googleusercontent.com/FPl--HCi7e1-FEv8lTdrUN3Cmgf7jU4_er8_5Hy7qVbbG0fAdiFn1tMrACnAc-QgrEO5Vbl0=s176-c-k-c0x00ffffff-no-rj-mo",
         "name": "EKHON TV",
-        "url": "https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_hd_720/index.m3u8"
     },
     {
         "id": "hum_tv",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png",
         "name": "HUM",
-        "url": "https://stream.ottplus.live/live/hum_tv_abr/live/hum_tv_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/hum_tv_abr/live/hum_tv_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/hum_tv_720/index.m3u8"
     },
     {
         "id": "hum_masala",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png",
         "name": "HUM Masala",
-        "url": "https://stream.ottplus.live/live/hum_masala_abr/live/hum_masala_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/hum_masala_abr/live/hum_masala_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/hum_masala_720/index.m3u8"
     },
     {
         "id": "hum_sitaray",
         "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png",
         "name": "HUM Sitaray",
-        "url": "https://stream.ottplus.live/live/hum_sitaray_abr/live/hum_sitaray_720/chunks.m3u8"
+        "url": "https://stream.ottplus.live/live/hum_sitaray_abr/live/hum_sitaray_720/chunks.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/hum_sitaray_720/index.m3u8"
     }
-    
-
-    
-    
 ]
