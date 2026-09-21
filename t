@@ -171,8 +171,8 @@
         "id": "zee_cafe_hd",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png",
         "name": "Zee Cafe",
-        "url": "",
-        "url1": ""
+        "url": "https://stream.ottplus.live/live/zee_cafe_hd_abr/index.m3u8",
+        "url1": "https://drk6xq0vhn.gpcdn.net/live/zee_cafe_hd_abr/index.m3u8"
     },
     {
         "id": "zing_sd",
