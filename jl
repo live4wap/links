@@ -6789,7 +6789,7 @@
         "name": "Sony YAY",
         "id": "174",
         "category": "Kids",
-        "url": "https://gec-007-jc.slivcdn.com/1556784378_Sab_JholMaal_Hai_Bank_Robbery_Hindi_03052019_NEW1.m3u8?contentId=1000000189&cpCustomerId=1556784499&deviceId=deviceId&partner=jiotvvod&partnerId=1556784491&platform=ANDROID_PHONE&user-agent=jiotv&sku_name=Free&__hdnea__=st=1788681796~exp=1788681916~acl=/*~hmac=87141b3fd781cd448696c646cbcbf7d8410836d1acffa0120a3cc431a692ce33",
+        "url": "",
         "keyId": "d48f57d25a6b5fb3b2d38d1f8e7e25a4",
         "key": "93e43fff8c073946af5054366bc0926b",
         "logo": "https://img.media.jio.com/tvpimages/20/59/300270_1753198448010_l_medium.jpg"
@@ -7124,7 +7124,7 @@
         "key": "859695076e67fe961836b564db6d689c",
         "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Sports 1 Hindi",
@@ -7165,7 +7165,7 @@
         "key": "4ae62a20c030c918aad24193c1dda229",
         "logo": "https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Sports 1 Tamil HD",
@@ -7205,7 +7205,7 @@
         "key": "ca4474972fdb4bf8ecb164482853c692",
         "logo": "https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Sports 2 HD",
@@ -7216,7 +7216,7 @@
         "key": "e620a970cea474c491ac78ae71a4d764",
         "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Sports 2 Hindi",
@@ -7237,7 +7237,7 @@
         "key": "f57f22cba32739ce7beb1fab3f3d060b",
         "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Sports 2 Kannada",
@@ -7248,7 +7248,7 @@
         "key": "f992a14e0def17ccdfe16f58c4ce56c5",
         "logo": "https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Sports 2 Tamil",
@@ -7305,7 +7305,7 @@
         "key": "be7497b59d4ce9e33d29bfd1d38bad1d",
         "logo": "https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Sports 3",
@@ -7335,7 +7335,7 @@
         "key": "39d5910ca04841b5f32bf24623cdae58",
         "logo": "https://img.media.jio.com/tvpimages/13/82/301994_1749664069587_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Sports Select 1 HD",
@@ -7366,7 +7366,7 @@
         "key": "0018944b00adf2078f62386f30c68b74",
         "logo": "https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg"
     },
-    {
+    
     
     {
         "name": "Star Suvarna",
