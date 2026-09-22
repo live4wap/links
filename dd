@@ -3300,7 +3300,19 @@
         "logo": "https://i.ibb.co/dwnfZn5X/images-25.jpg",
         "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
     },
-
+    {
+        "name": "SHEMAROO TV",
+        "id": "514",
+        "category": "HINDI ENTERTAINMENT",
+        "logo": "https://i.ibb.co/dwnfZn5X/images-25.jpg",
+        "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8"
+    },    {
+        "name": "SHEMAROO TV",
+        "id": "514",
+        "category": "HINDI ENTERTAINMENT",
+        "logo": "https://i.ibb.co/dwnfZn5X/images-25.jpg",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8"
+    },
 {
         "name": "SHEMAROO UMANG",
         "id": "513",
