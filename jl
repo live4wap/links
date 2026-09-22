@@ -5591,7 +5591,7 @@
     },
     {
         "name": "Punjab Plus",
-        "id": "317_2",
+        "id": "3177",
         "category": "Entertainment",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Punjab_Plus_BTS/WDVLive/index.mpd",
         "keyId": "1f7b3195b9f35316bce03295222e18f9",
@@ -6500,7 +6500,7 @@
     },
     {
         "name": "Sidharth Bhakti",
-        "id": "362_2",
+        "id": "3622",
         "category": "Devotional",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sidharth_Bhakti_BTS/WDVLive/index.mpd",
         "keyId": "39b9213c442c54eab037cb15cab0306b",
@@ -6509,7 +6509,7 @@
     },
     {
         "name": "Sidharth Gold",
-        "id": "368_2",
+        "id": "3688",
         "category": "Movies",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sidharth_Gold_BTS/WDVLive/index.mpd",
         "keyId": "c1cb48cb1313531db9d0dee0816ca2f0",
@@ -6647,7 +6647,7 @@
     },
     {
         "name": "Sony Marathi",
-        "id": "164_2",
+        "id": "1644",
         "category": "Entertainment",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMarathi_BTS/WDVLive/index.mpd",
         "keyId": "adb6b9b4fa9551ef80975d9d2a1152a4",
@@ -6674,7 +6674,7 @@
     },
     {
         "name": "Sony MAX1",
-        "id": "1119_2",
+        "id": "11199",
         "category": "Movies",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX1_BTS/WDVLive/index.mpd",
         "keyId": "2a1a2b85777a564ba74e8f38ab063def",
@@ -6710,7 +6710,7 @@
     },
     {
         "name": "Sony Sports Ten 1 HD",
-        "id": "156_2",
+        "id": "1566",
         "category": "Sports",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen1HDSTB_BTS/WDVLive/index.mpd",
         "keyId": "523acf1f55485476817958a62a3f2ed9",
@@ -6744,7 +6744,7 @@
     },
     {
         "name": "Sony Sports Ten 4 Tamil",
-        "id": "1115_2",
+        "id": "11155",
         "category": "Sports",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen4TamSTB_BTS/WDVLive/index.mpd",
         "logo": "https://img.media.jio.com/tvpimages/21/10/304240_1787558465564_l_medium.jpg"
@@ -7261,7 +7261,7 @@
     },
     {
         "name": "Star Sports 2 Tamil 2",
-        "id": "2853_2",
+        "id": "28533",
         "category": "Sports",
         "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd",
         "keyId": "3979aae1ca51561c9e8074cd618b3864",
@@ -7289,7 +7289,7 @@
     },
     {
         "name": "Star Sports 2 Telugu 2",
-        "id": "2852_2",
+        "id": "28522",
         "category": "Sports",
         "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd",
         "keyId": "e38f46718d9d5c40af83095f176ba41e",
@@ -8644,7 +8644,7 @@
     },
     {
         "name": "Vaanavil  TV",
-        "id": "460_2",
+        "id": "4600",
         "category": "Entertainment",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vaanavil_TV_BTS/WDVLive/index.mpd",
         "keyId": "302f3506f49453e988440e6a68bfe816",
@@ -8897,7 +8897,7 @@
     },
     {
         "name": "Vietnam Today",
-        "id": "1122_2",
+        "id": "11222",
         "category": "Others",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/VietnamToday_BTS/WDVLive/index.mpd",
         "logo": "https://img.media.jio.com/tvpimages/29/79/304247_1787838590058_l_medium.jpg"
@@ -9123,7 +9123,7 @@
     },
     {
         "name": "Zee 24 Taas",
-        "id": "429_2",
+        "id": "4299",
         "category": "News",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_24_Taas_BTS/WDVLive/index.mpd",
         "keyId": "d5d5f822f9775c6d995ec509d771e233",
