@@ -3291,7 +3291,7 @@
         "id": "514",
         "category": "HINDI ENTERTAINMENT",
         "logo": "https://i.ibb.co/dwnfZn5X/images-25.jpg",
-        "url": "https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-230"
+        "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8"
     },
     {
         "name": "SHEMAROO TV ˢᴰ",
@@ -3299,6 +3299,14 @@
         "category": "HINDI ENTERTAINMENT",
         "logo": "https://i.ibb.co/dwnfZn5X/images-25.jpg",
         "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
+    },
+
+{
+        "name": "SHEMAROO UMANG",
+        "id": "513",
+        "category": "HINDI ENTERTAINMENT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqHlYh9aM5FM28kjxw3dC3_JGRg850SI1qiV5sNziVIg&s=10",
+        "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8"
     },
     {
         "name": "SHOW BOX MUSIC",
