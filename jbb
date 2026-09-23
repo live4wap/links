@@ -6288,14 +6288,7 @@
     "key": "ae5814ebfacb93470b061e962a769af0",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SB_News_24x7.png"
   },
-  {
-    "name": "SET HD",
-    "id": "291",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_HD_MOB/WDVLive/index.mpd",
-    "keyId": "null",
-    "key": "null",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"
-  },
+ 
   {
     "name": "Shalom",
     "id": "606",
