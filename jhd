@@ -4336,42 +4336,53 @@
     },
     {
         "name": "Sony Sports 1",
-        "id": "45",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png"
+        "id": "3231",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png"
     },
     {
         "name": "Sony Sports 2",
-        "id": "46",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png"
+        "id": "3232",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png"
     },
     {
         "name": "Sony Sports 3",
-        "id": "47",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png"
+        "id": "3233",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png"
+    },
+{
+        "name": "Sony Sports 5",
+        "id": "3236",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png"
     },
     {
         "name": "Sony ten 1 SD",
-        "id": "48"
+        "id": "3237"
+        "logo":""
     },
     {
         "name": "Sony ten 2 SD",
-        "id": "49"
+        "id": "3238"
+        "logo":""
     },
     {
         "name": "Sony ten 3 SD",
-        "id": "50"
+        "id": "3239"
+        "logo":""
     },
     {
         "name": "Sony ten 4 Tamil",
-        "id": "51"
+        "id": "3240"
+        "logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png"
     },
     {
         "name": "Sony ten 4 Telugu",
-        "id": "52"
+        "id": "3241",
+        "logo":"https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png"
     },
     {
         "name": "Sony ten 5 SD",
-        "id": "53"
+        "id": "3242",
+        "logo":""
     },
     {
         "name": "Sony Wah",
