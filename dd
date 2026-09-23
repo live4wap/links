@@ -883,6 +883,63 @@
         "logo": "https://i.ibb.co/fzXyG9kM/images-10.jpg",
         "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8"
     },
+
+  {
+    "name": "Zee Bangla Cinema",
+    "id": "3879",
+    "category": "TVPLAY DISHTV",
+    "logo": "",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8"
+  },
+  {
+    "name": "Zee Cinema (Option 1)",
+    "id": "3880",
+    "category": "TVPLAY DISHTV",
+    "logo": "",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-audio_208482_und=208000.m3u8"
+  },
+  {
+    "name": "Zee Cinema (Option 2)",
+    "id": "3881",
+    "category": "TVPLAY DISHTV",
+    "logo": "",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8"
+  },
+  {
+    "name": "Zee Cinema (Option 3)",
+    "id": "3882",
+    "category": "TVPLAY DISHTV",
+    "logo": "",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8"
+  },
+  {
+    "name": "Zee TV",
+    "id": "3883",
+    "category": "TVPLAY DISHTV",
+    "logo": "",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8"
+  },
+  {
+    "name": "Star Plus",
+    "id": "3884",
+    "category": "TVPLAY DISHTV",
+    "logo": "",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8"
+  },
+  {
+    "name": "Life OK / Star Utsav Movies",
+    "id": "3885",
+    "category": "TVPLAY DISHTV",
+    "logo": "",
+    "url": "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8"
+  },
+  {
+    "name": "Rishtey Cineplex",
+    "id": "3886",
+    "category": "TVPLAY DISHTV",
+    "logo": "",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8"
+  },
     {
         "name": "Comedy Dynamics",
         "id": "84",
