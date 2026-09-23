@@ -4054,11 +4054,7 @@
         "id": "3110",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SB_News_24x7.png"
     },
-    {
-        "name": "SET HD",
-        "id": "291",
-        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"
-    },
+
     {
         "name": "Shalom",
         "id": "606",
@@ -4233,6 +4229,16 @@
         "name": "Sonic Telugu",
         "id": "1242",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png"
+    },
+    {
+        "name": "Sony HD",
+        "id": "291",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"
+    },   
+{
+        "name": "Sony SD",
+        "id": "292",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png"
     },
     {
         "name": "Sony aath",
