@@ -1847,9 +1847,6 @@
     {
         "name": "Q TV (576p) [Geo-blocked]",
         "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8"
-    },
-    {
-        "name": "tvsen.m3u8",
-        "url": "TV_Sen_(540p),http://95.105.193.219:88/hls/tvsen.m3u8"
     }
+    
 ]
