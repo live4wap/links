@@ -7143,6 +7143,13 @@
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
         "keyId": "400131994b445d8c8817202248760fda",
         "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
+    "keys": [
+        "45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797",
+        "bf95222d9be85d85a91281e796e99481:bc932276031b3e63758cf67b147c3557",
+        "f217e9fe133e5b948c323abef1e39b47:63640dc4430d14003def0c97a2dbab4d",
+        "eda3132244745c10920b01536bc8a75b:2b5f8bdba279032943a040078bb22b35",
+        "06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba"
+      ],
         "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
     },
     
