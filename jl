@@ -7138,8 +7138,15 @@
         "id": "362",
         "category": "Sports",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd",
-        "keyId": "8ea9b607549252068e260a5f4d7dd321",
-        "key": "350c0aaffedf51cc1502e9543c7c885e",
+        "keyId": "null",
+        "key": "null",
+    "keys": [
+        "30039b6e2c545c01aa84e649875c4977:7aa610c68000fe9ed97851d40a52abff",
+        "c2f0a204c6c353428954740d05d73c3d:6543b1984330109886d2864d06096590",
+        "a9cb8b39035a5393a4450f56c35b15a2:96f3585aab24109d64b74e9f0c6a5ed3",
+        "6a28a05d0f9a5e09987e4267eab5a947:38d9de645400fe2df985177aafb6a248",
+        "187e53dccc7c50f5b43306635bc93adb:72f9a4a4ff898de730991ae465d06388"
+      ],
         "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg"
     },
     
@@ -7226,8 +7233,15 @@
         "id": "1109",
         "category": "Sports",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
-        "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
-        "key": "e620a970cea474c491ac78ae71a4d764",
+        "keyId": "null",
+        "key": "null",
+    "keys": [
+        "b99144f27b865d6ba1007fead82b2783:b2f10f09a771327b9bc69484d78e4595",
+        "04204c98718a52bf9e88d5e676fd7a63:7eebb539b03f674a26e84ae096320c70",
+        "33fab6f82a59590eb875f949389e03a9:26eff9e972154e624faf259ae0ee78ec",
+        "a5ad7dec861451a49029044a3b9d30bb:eff028a1ed3253b6a68b6a9cb4f1a0e4",
+        "c1ea31b9099b5030b14b67b41dc547d2:db74fb55442bc9cf7e8e9f364b3fe37f"
+      ],
         "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg"
     },
     
@@ -7237,8 +7251,15 @@
         "id": "1985",
         "category": "Sports",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd",
-        "keyId": "a3ed8dc0e0cb5d238da80ee0a85bd2e1",
-        "key": "67a96992e6406606f3480ab58d7f540c",
+        "keyId": "null",
+        "key": "null",
+    "keys": [
+        "f9af22f6d76f5f5d98a35eed7fc35292:b979fbf840b5c984733d28aaf683762e",
+        "d20fa4f491ff5e74a4b5b149caed397b:913de95cba91eadbeee9784882185f70",
+        "f52d8e6b43c95ee7b5d1092c127049bc:8b6f00199715e5e736fc970e2e887709",
+        "b4ae2599a33f5cbc8eff216f82284cef:98cc66f56da9a4e8163f5f831f03cd43",
+        "602ce22ddc995d4495d10c1adeeb8e8c:be784f89f9513333c7621900c7a1d89b"
+      ],
         "logo": "https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg"
     },
     
@@ -7247,8 +7268,15 @@
         "id": "1984",
         "category": "Sports",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd",
-        "keyId": "bd1ea6a1c1fb5dcdb709434e0826bbc0",
-        "key": "f57f22cba32739ce7beb1fab3f3d060b",
+        "keyId": "null",
+        "key": "null",
+    "keys": [
+        "5b50f11a09a15275b5742ef2d6e001e0:9b9ce35c8d91340939031aba5e433991",
+        "22e4de22a39b5ce78425c739c4941e7b:b4134f4a41cc0d214ba909cc4ebdb0ba",
+        "17a32401741c5072bd2f550f72be7a42:0ddcf0f656f52008a2276a85adbcf42e",
+        "0c1a4c4f4a60538a8841ad67b5df3488:939f425e0ef782f16cc9db4b84b47195",
+        "8e48435ba038548299ee73fef998535d:b89d18e54ad2b5576c27c3259db19a3e"
+      ],
         "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg"
     },
     
