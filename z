@@ -148,8 +148,8 @@
         "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd"
     },
     {
-        "keyId": "{\"keys\"",
-        "key": "[{\"kty\":\"oct\",\"k\":\"PD6NAln3SPGDD3E6dpdg5w\",\"kid\":\"nXoZF+4yRNGYGTzdH/H+rg\"}],\"type\":\"temporary\"}",
+        "keyId": "9d7a1917ee3244d198193cdd1ff1feae",
+        "key": "3c3e8d0259f748f1830f713a769760e7",
         "name": "Zee Action",
         "id": "13",
         "category": "Movies",
